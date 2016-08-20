@@ -11,16 +11,41 @@ Images have been used as a diagnostic tool to understand how [convoluted neural 
 
 Interesting to me because it is a non-visual way of understanding, and producing, visual images and has implications for computer vision. 
 
+###t-SNE Sorting
+
+Related to neural networks (I think) t-SNE is a methodology for sorting images based on their contents. It's an interesting approach to dealing with thousands of images and something I want to explore. 
+
+[Gene Kogan is doing work in this area](https://github.com/genekogan/ofxTSNE).
+
+
+
 ##Photogrammetry
 
-[Photogrammetry](https://en.wikipedia.org/wiki/Photogrammetry) is the process by which multiple photographs (or video frames) of the same object from different angles can be translated into a 3D rendering of that object. Originally used to determine topographical heights from aerial photography this is now a common form of 3D scanning. The process involves identifting similar points in photos and calcuating their position in 3D space. 
+[Photogrammetry](https://en.wikipedia.org/wiki/Photogrammetry) is the process by which multiple photographs (or video frames) of the same object from different angles can be translated into a 3D rendering of that object. [Originally used](https://github.com/golanlevin/ExperimentalCapture/blob/master/docs/Photogrammetry-and-3D-scanning.md) to determine topographical heights from aerial photography this is now a common form of 3D scanning. The process involves identifting similar points in photos and calcuating their position in 3D space. 
 
 Interesting to me because photos as data and the translation from 2D to 3D. Also very glitchy.
 
 ##Depth Capture
 
-[LiDAR](https://en.wikipedia.org/wiki/Lidar) and [Kinect](https://en.wikipedia.org/wiki/Kinect). They're cameras, but they're not cameras. Adding a new dimension of depth. See also [DepthKit](http://www.depthkit.tv). 
+[LiDAR](https://en.wikipedia.org/wiki/Lidar) and [Kinect](https://en.wikipedia.org/wiki/Kinect). They're cameras, but they're not cameras. Adding a new dimension of depth. See also [DepthKit](http://www.depthkit.tv) and work with the [LiDAR unit I recently bought](https://github.com/golanlevin/ExperimentalCapture/tree/master/students/benjamin/project3)
 
 Interesting to me because they push the edges of "what is a camera" in a relatively comprehendable way, plus they really do just produce data which has to be rendered in an arbitrary way to be understood. 
 
 Particularly want to rethink how they "see". 
+
+##Mutispectral Imaging
+
+Moving out of the visual RGB band and looking at non-visible light and radio waves.
+
+* Near Infra Red
+* Ultra Violet
+* Infra Red
+* etc
+
+[Good overview from Golan Levin.](https://github.com/golanlevin/ExperimentalCapture/blob/master/docs/hyperspectral.md)
+
+Interesting because computers can capture the spectrums that we can't see.
+
+
+
+
