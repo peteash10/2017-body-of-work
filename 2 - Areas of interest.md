@@ -52,7 +52,6 @@ To quote Lev Manovich:
 
 > Depending on the software I am using, the “properties” of a media object can change dramatically. Exactly the same file with the same contents can take on a variety of identities depending on the software being used. What does this finding means in relation to the persisting primacy of the term “digital” in understanding new media? Let me answer this as clear and direct as I can. There is no such thing as “digital media.” There is only software – as applied to media data (or “content”).
 
-
-
+*[There Is Only Software](http://manovich.net/index.php/projects/there-is-only-software), 2011. [PDF](https://github.com/peteash10/2017-body-of-work/blob/master/resources/Lev%20Manovich%20-%20There%20is%20Only%20Software.pdf)*
 
 
