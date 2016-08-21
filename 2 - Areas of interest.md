@@ -11,7 +11,7 @@ Images have been used as a diagnostic tool to understand how [convoluted neural 
 
 Interesting to me because it is a non-visual way of understanding, and producing, visual images and has implications for computer vision. 
 
-![https://www.flickr.com/photos/peteashton/19464303785/in/album-72157655112413070/]()
+![https://www.flickr.com/photos/peteashton/19464303785/in/album-72157655112413070/](https://raw.githubusercontent.com/peteash10/2017-body-of-work/master/images/19464303785_407a74729b_o.jpg)
 
 ###t-SNE Sorting
 
@@ -27,7 +27,9 @@ Related to neural networks (I think) t-SNE is a methodology for sorting images b
 
 [Photogrammetry](https://en.wikipedia.org/wiki/Photogrammetry) is the process by which multiple photographs (or video frames) of the same object from different angles can be translated into a 3D rendering of that object. [Originally used](https://github.com/golanlevin/ExperimentalCapture/blob/master/docs/Photogrammetry-and-3D-scanning.md) to determine topographical heights from aerial photography this is now a common form of 3D scanning. The process involves identifting similar points in photos and calcuating their position in 3D space. 
 
-Interesting to me because photos as data and the translation from 2D to 3D. Also very glitchy.
+Interesting to me because photos as data and the translation from 2D to 3D. Also potentially very glitchy.
+
+![]()
 
 ##Depth Capture
 
@@ -36,6 +38,8 @@ Interesting to me because photos as data and the translation from 2D to 3D. Also
 Interesting to me because they push the edges of "what is a camera" in a relatively comprehendable way, plus they really do just produce data which has to be rendered in an arbitrary way to be understood. 
 
 Particularly want to rethink how they "see". 
+
+![](https://raw.githubusercontent.com/peteash10/2017-body-of-work/master/images/clouds_doc.jpeg)
 
 ##Mutispectral Imaging
 
