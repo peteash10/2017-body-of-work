@@ -10,3 +10,6 @@ To quote Lev Manovich:
 
 *[There Is Only Software](http://manovich.net/index.php/projects/there-is-only-software), 2011. [PDF](https://github.com/peteash10/2017-body-of-work/blob/master/resources/Lev%20Manovich%20-%20There%20is%20Only%20Software.pdf)*
 
+##Data Portraiture
+
+Lots of things come under this, from Google, Facebook, etc generating profiles to Fitbit health data to DNA reconstructions and so on. The connection to photography is perhaps tenuous, but the connection to portrature is fascinating. Is there a "painting > photography > data" line? Can a data portrait be "composed"? How might a data artist approach portraiture? 
