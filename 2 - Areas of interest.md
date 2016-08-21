@@ -11,11 +11,15 @@ Images have been used as a diagnostic tool to understand how [convoluted neural 
 
 Interesting to me because it is a non-visual way of understanding, and producing, visual images and has implications for computer vision. 
 
+![https://www.flickr.com/photos/peteashton/19464303785/in/album-72157655112413070/]()
+
 ###t-SNE Sorting
 
 Related to neural networks (I think) t-SNE is a methodology for sorting images based on their contents. It's an interesting approach to dealing with thousands of images and something I want to explore. 
 
 [Gene Kogan is doing work in this area](https://github.com/genekogan/ofxTSNE).
+
+![](https://camo.githubusercontent.com/d1de97e95b13b6349e6ad94933e4897d96de4d09/68747470733a2f2f63322e737461746963666c69636b722e636f6d2f322f313531312f32343837333234333931355f646435323230653431635f6b2e6a7067)
 
 
 
@@ -37,14 +41,20 @@ Particularly want to rethink how they "see".
 
 Moving out of the visual RGB band and looking at non-visible light and radio waves.
 
-* Near Infra Red
-* Ultra Violet
-* Infra Red
-* etc
+* Near-Infrared (NIR) Imaging
+* X-Ray Imaging
+* Thermal Imaging
+* Thermochromic Imaging
+* Ultraviolet (UV) Imaging
+* Radar
+* Millimeter Wave & Terahertz Imaging
+* CT Scans, MRI, CAT Etc.
 
 [Good overview from Golan Levin.](https://github.com/golanlevin/ExperimentalCapture/blob/master/docs/hyperspectral.md)
 
 Interesting because computers can capture the spectrums that we can't see.
+
+[![](https://camo.githubusercontent.com/9fdf8382cf62cd24735ab4de53599a1f927ed614/687474703a2f2f73746f706f63736d6172746d65746572732e636f6d2f75706c6f6164732f332f352f312f362f333531363538302f373933343337305f6f7269672e6a7067)](https://camo.githubusercontent.com/9fdf8382cf62cd24735ab4de53599a1f927ed614/687474703a2f2f73746f706f63736d6172746d65746572732e636f6d2f75706c6f6164732f332f352f312f362f333531363538302f373933343337305f6f7269672e6a7067)
 
 ##There Is Only Software
 
@@ -55,3 +65,10 @@ To quote Lev Manovich:
 *[There Is Only Software](http://manovich.net/index.php/projects/there-is-only-software), 2011. [PDF](https://github.com/peteash10/2017-body-of-work/blob/master/resources/Lev%20Manovich%20-%20There%20is%20Only%20Software.pdf)*
 
 
+##Photoviz
+
+[Nicholas Felton](http://feltron.com)'s merging of photograph and data visualisation in [his book](http://feltron.com/PhotoViz.html) collecting examples from early photography to the present. 
+
+Interesting as an accessble way to think of images as data. 
+
+![](http://feltron.com/images/PhotoViz/thumb_01.jpg)
