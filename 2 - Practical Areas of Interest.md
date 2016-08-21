@@ -1,6 +1,6 @@
-#Areas of Interest
+#Practical Areas of Interest
 
-Enquiry into the production and consumption of images in the 21st century is a dauntingly huge challenge. My process over the next few months will be to narrow my areas of interest to a manageable number of subjects suitable for the production of new work. Here is the current list. 
+Enquiry into the production and consumption of images in the 21st century is a dauntingly huge challenge. My process over the next few months will be to narrow my areas of interest to a manageable number of subjects suitable for the production of new work. Here is the current list of tools, methods and practical approaches. 
 
 ##Neural Networks
 
@@ -29,7 +29,7 @@ Related to neural networks (I think) t-SNE is a methodology for sorting images b
 
 Interesting to me because photos as data and the translation from 2D to 3D. Also potentially very glitchy.
 
-![]()
+![](https://raw.githubusercontent.com/peteash10/2017-body-of-work/master/images/Photogrammetry.jpg)
 
 ##Depth Capture
 
@@ -59,15 +59,6 @@ Moving out of the visual RGB band and looking at non-visible light and radio wav
 Interesting because computers can capture the spectrums that we can't see.
 
 [![](https://camo.githubusercontent.com/9fdf8382cf62cd24735ab4de53599a1f927ed614/687474703a2f2f73746f706f63736d6172746d65746572732e636f6d2f75706c6f6164732f332f352f312f362f333531363538302f373933343337305f6f7269672e6a7067)](https://camo.githubusercontent.com/9fdf8382cf62cd24735ab4de53599a1f927ed614/687474703a2f2f73746f706f63736d6172746d65746572732e636f6d2f75706c6f6164732f332f352f312f362f333531363538302f373933343337305f6f7269672e6a7067)
-
-##There Is Only Software
-
-To quote Lev Manovich:
-
-> Depending on the software I am using, the “properties” of a media object can change dramatically. Exactly the same file with the same contents can take on a variety of identities depending on the software being used. What does this finding means in relation to the persisting primacy of the term “digital” in understanding new media? Let me answer this as clear and direct as I can. There is no such thing as “digital media.” There is only software – as applied to media data (or “content”).
-
-*[There Is Only Software](http://manovich.net/index.php/projects/there-is-only-software), 2011. [PDF](https://github.com/peteash10/2017-body-of-work/blob/master/resources/Lev%20Manovich%20-%20There%20is%20Only%20Software.pdf)*
-
 
 ##Photoviz
 
