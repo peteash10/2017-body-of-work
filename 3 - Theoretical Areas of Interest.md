@@ -2,6 +2,16 @@
 
 Enquiry into the production and consumption of images in the 21st century is a dauntingly huge challenge. My process over the next few months will be to narrow my areas of interest to a manageable number of subjects suitable for the production of new work. Here is the current list of ideas and approaches. 
 
+##Data-First Photography
+
+What does it mean to compose a photograph for the data it will capture, rather than for the aesthetic pleasure it will give? Where do these two overlap? 
+
+Is there any aesthetic value to be found in photographs taken purely for data? 
+
+(See also the Bham Library photograph archive of reference photos of streets.)
+
+(See also [Vernacular Photography](https://en.wikipedia.org/wiki/Vernacular_photography), maybe)
+
 ##There Is Only Software
 
 To quote Lev Manovich:
@@ -12,4 +22,4 @@ To quote Lev Manovich:
 
 ##Data Portraiture
 
-Lots of things come under this, from Google, Facebook, etc generating profiles to Fitbit health data to DNA reconstructions and so on. The connection to photography is perhaps tenuous, but the connection to portrature is fascinating. Is there a "painting > photography > data" line? Can a data portrait be "composed"? How might a data artist approach portraiture? 
+Lots of things come under this, from Google, Facebook, etc generating profiles to Fitbit health data to DNA reconstructions and so on. The connection to photography is perhaps tenuous, but the connection to portraiture is fascinating. Is there a "painting > photography > data" line? Can a data portrait be "composed"? How might a data artist approach portraiture? 

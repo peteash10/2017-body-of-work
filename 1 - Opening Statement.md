@@ -20,6 +20,7 @@ This could be analogous to a photograph being changed by its context (family alb
 
 Because the digital image is made of digits it is fundamentally the same as all other digital media and can be treated as such. The software does not have to render it as an image. It can process it it other ways, visual and non-visual. The digital image is data first and an image second. 
 
+
 *to be continued*
 
 

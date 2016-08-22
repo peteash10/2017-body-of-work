@@ -25,7 +25,7 @@ Related to neural networks (I think) t-SNE is a methodology for sorting images b
 
 ##Photogrammetry
 
-[Photogrammetry](https://en.wikipedia.org/wiki/Photogrammetry) is the process by which multiple photographs (or video frames) of the same object from different angles can be translated into a 3D rendering of that object. [Originally used](https://github.com/golanlevin/ExperimentalCapture/blob/master/docs/Photogrammetry-and-3D-scanning.md) to determine topographical heights from aerial photography this is now a common form of 3D scanning. The process involves identifting similar points in photos and calcuating their position in 3D space. 
+[Photogrammetry](https://en.wikipedia.org/wiki/Photogrammetry) is the process by which multiple photographs (or video frames) of the same object from different angles can be translated into a 3D rendering of that object. [Originally used](https://github.com/golanlevin/ExperimentalCapture/blob/master/docs/Photogrammetry-and-3D-scanning.md) to determine topographical heights from aerial photography this is now a common form of 3D scanning. The process involves identifying similar points in photos and calculating their position in 3D space. 
 
 Interesting to me because photos as data and the translation from 2D to 3D. Also potentially very glitchy.
 
@@ -35,13 +35,13 @@ Interesting to me because photos as data and the translation from 2D to 3D. Also
 
 [LiDAR](https://en.wikipedia.org/wiki/Lidar) and [Kinect](https://en.wikipedia.org/wiki/Kinect). They're cameras, but they're not cameras. Adding a new dimension of depth. See also [DepthKit](http://www.depthkit.tv) and work with the [LiDAR unit I recently bought](https://github.com/golanlevin/ExperimentalCapture/tree/master/students/benjamin/project3)
 
-Interesting to me because they push the edges of "what is a camera" in a relatively comprehendable way, plus they really do just produce data which has to be rendered in an arbitrary way to be understood. 
+Interesting to me because they push the edges of "what is a camera" in a relatively comprehendible way, plus they really do just produce data which has to be rendered in an arbitrary way to be understood. 
 
 Particularly want to rethink how they "see". 
 
 ![](https://raw.githubusercontent.com/peteash10/2017-body-of-work/master/images/clouds_doc.jpeg)
 
-##Mutispectral Imaging
+##Multispectral Imaging
 
 Moving out of the visual RGB band and looking at non-visible light and radio waves.
 
@@ -51,7 +51,7 @@ Moving out of the visual RGB band and looking at non-visible light and radio wav
 * Thermochromic Imaging
 * Ultraviolet (UV) Imaging
 * Radar
-* Millimeter Wave & Terahertz Imaging
+* Millimetre Wave & Terahertz Imaging
 * CT Scans, MRI, CAT Etc.
 
 [Good overview from Golan Levin.](https://github.com/golanlevin/ExperimentalCapture/blob/master/docs/hyperspectral.md)
@@ -64,6 +64,6 @@ Interesting because computers can capture the spectrums that we can't see.
 
 [Nicholas Felton](http://feltron.com)'s merging of photograph and data visualisation in [his book](http://feltron.com/PhotoViz.html) collecting examples from early photography to the present. 
 
-Interesting as an accessble way to think of images as data. 
+Interesting as an accessible way to think of images as data. 
 
 ![](http://feltron.com/images/PhotoViz/thumb_01.jpg)
