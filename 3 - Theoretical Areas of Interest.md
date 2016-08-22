@@ -8,9 +8,7 @@ What does it mean to compose a photograph for the data it will capture, rather t
 
 Is there any aesthetic value to be found in photographs taken purely for data? 
 
-(See also the Bham Library photograph archive of reference photos of streets.)
-
-(See also [Vernacular Photography](https://en.wikipedia.org/wiki/Vernacular_photography), maybe)
+(See also [Vernacular Photography](https://en.wikipedia.org/wiki/Vernacular_photography), maybe. People taking photos purely to record what was there, not concerned about it looking "nice".)
 
 ##There Is Only Software
 
