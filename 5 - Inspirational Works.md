@@ -14,6 +14,8 @@ A small selection of works by others which have helped inform and inspire my pra
 
 ##[Alfons Schilling's Vision Machines](http://www.alfonsschilling.net/werke/sehmaschinen/)
 
+![](https://raw.githubusercontent.com/peteash10/2017-body-of-work/master/images/Schilling.jpeg)
+
 Schilling was an Austrian artist who did pioneering work in VR and perception art. All his work is of interest but I'm particularly fascinated by his vision-altering contraptions. Often bulky and awkward, they restrict the vision of the wearer and change how they perceive the world. 
 
 I would like to build something similar which simulates how different cameras and capture devices "see the world". For example, as a [rolling-shutter](https://en.wikipedia.org/wiki/Rolling_shutter) or a [slit-scan](http://flong.com/texts/lists/slit_scan/). 
