@@ -30,6 +30,10 @@ I want to explore what it means to be seen by a camera in the 21st century, and 
 
 I will continue to use my Fellowship at Birmingham Open Media to find and develop collaborations with artists, institutions and organisations locally and internationally to develop this work. A wish-list of these can be found [here](https://github.com/peteash10/2017-body-of-work/blob/master/words/6%20-%20Potential%20Collaborators.md).
 
+##Exploring the world beyond human perception and comprehension
+
+Might be a title for this work. Or it might now.
+
 *to be continued*
 
 

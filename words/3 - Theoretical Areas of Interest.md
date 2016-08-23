@@ -2,6 +2,16 @@
 
 Enquiry into the production and consumption of images in the 21st century is a dauntingly huge challenge. My process over the next few months will be to narrow my areas of interest to a manageable number of subjects suitable for the production of new work. Here is the current list of ideas and approaches. 
 
+##Power
+
+Specifically the power the person holding or controlling the camera (and/or the resulting images) has over the subject. I'm particularly interested in how this power can be neutered or combatted, and how when that happens it is seen as dangerous or (worse) stupid. 
+
+Examples:
+
+* Protesters photographing police photographers. 
+* Selfies as an elimination of the photographer from the image making process. 
+* Documenting CCTV and other surveillance infrastructure.
+
 ##Data-First Photography
 
 What does it mean to compose a photograph for the data it will capture, rather than for the aesthetic pleasure it will give? Where do these two overlap? 
