@@ -14,6 +14,8 @@ I'm attempting to boil everything down into a series of documents. These will be
 2.	[Practical Areas of Interest](https://github.com/peteash10/2017-body-of-work/blob/master/2%20-%20Practical%20Areas%20of%20Interest.md) - The tools, methods and techniques I'm looking to use. 
 3.	[Theoretical Areas of Interest](https://github.com/peteash10/2017-body-of-work/blob/master/3%20-%20Theoretical%20Areas%20of%20Interest.md) - The ideas, theories and concepts I'm looking to explore with those tools. 
 4. [Sociopolitical Areas of Interest](https://github.com/peteash10/2017-body-of-work/blob/master/4%20-%20Sociopolitical%20Areas%20of%20Interest.md) - Making it matter. The issues I'd like to explore and highlight with my work.
+5. [Inspirational Works](https://github.com/peteash10/2017-body-of-work/blob/master/5%20-%20Inspirational%20Works.md) - A small selection of pieces I admire. 
+6. [Potetial Collaborators](https://github.com/peteash10/2017-body-of-work/blob/master/6%20-%20Potential%20Collaborators.md) - People and entities I'd like to work with.
 
 ##Why GitHub?
 

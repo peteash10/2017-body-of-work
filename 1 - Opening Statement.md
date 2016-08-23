@@ -20,6 +20,15 @@ This could be analogous to a photograph being changed by its context (family alb
 
 Because the digital image is made of digits it is fundamentally the same as all other digital media and can be treated as such. The software does not have to render it as an image. It can process it it other ways, visual and non-visual. The digital image is data first and an image second. 
 
+In short, the analogue and the digital as not as analogous as we might think.
+
+##A New Body of Work
+
+During 2017 I will be using this framework to develop a new body of work, culminating in an exhibition at [Birmingham Open Media](http://bom.org.uk) at the end of the year. 
+
+I want to explore what it means to be seen by a camera in the 21st century, and what it might mean in the future as the medium and its tools develop and change. 
+
+I will continue to use my Fellowship at Birmingham Open Media to find and develop collaborations with artists, institutions and organisations locally and internationally to develop this work. A wish-list of these can be found [here](https://github.com/peteash10/2017-body-of-work/blob/master/6%20-%20Potential%20Collaborators.md).
 
 *to be continued*
 
