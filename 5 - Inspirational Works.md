@@ -22,7 +22,7 @@ I would like to build something similar which simulates how different cameras an
 
 ##[Fashionably Late for the Relationship](https://vimeo.com/30496329)
 
-<iframe src="https://player.vimeo.com/video/30496329" width="640" height="272" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+[![](https://raw.githubusercontent.com/peteash10/2017-body-of-work/master/images/DuBois.png)](https://vimeo.com/30496329)
 
 by R. Luke DuBois
 
@@ -31,6 +31,8 @@ A three day performance piece by Lián Amaris Sifuente which was recorded and ed
 See also [Manuel Vason](http://manuelvason.com)'s collaboration work. 
 
 ##[The PhotoPerformer](http://www.thephotoperformer.com)
+
+![](https://raw.githubusercontent.com/peteash10/2017-body-of-work/master/images/vason.png)
 
 [Manuel Vason](http://manuelvason.com)
 
