@@ -21,8 +21,8 @@ I'm attempting to boil everything down into a series of documents. These will be
 
 Other sections and bits of writing which flesh out the main thrust, as it were. 
 
-1.	Other works of mine which led up to this project
-2. Why GitHub? - Why I'm using this service rather than a website or blog. 
+1. [Other works of mine which led up to this project](https://github.com/peteash10/2017-body-of-work/tree/master/Other-Works)
+2. [Why GitHub?](https://github.com/peteash10/2017-body-of-work/blob/master/Misc-Texts/Why%20Github.md) - Why I'm using this service rather than a website or blog. 
 
 ##Timeline
 
@@ -50,7 +50,7 @@ Other sections and bits of writing which flesh out the main thrust, as it were.
 
 ###November 2017
 
-* Exhibtition at Birmingham Open Media.
+* Exhibtition at [Birmingham Open Media](http://bom.org.uk).
 
 
 
