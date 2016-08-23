@@ -10,19 +10,19 @@ My email is pete@peteashton.com and I'm on Twitter at [@peteashton](http://twitt
 
 I'm attempting to boil everything down into a series of documents. These will be expanded, reduced, merged and split between whenever now is and the end of October 2016. Here's the current batch. 
 
-1.	[Opening Statement](https://github.com/peteash10/2017-body-of-work/blob/master/1%20-%20Opening%20Statement.md) - Aiming to have this down to three paragraphs. Will take a while to get there!
-2.	[Practical Areas of Interest](https://github.com/peteash10/2017-body-of-work/blob/master/2%20-%20Practical%20Areas%20of%20Interest.md) - The tools, methods and techniques I'm looking to use. 
-3.	[Theoretical Areas of Interest](https://github.com/peteash10/2017-body-of-work/blob/master/3%20-%20Theoretical%20Areas%20of%20Interest.md) - The ideas, theories and concepts I'm looking to explore with those tools. 
-4. [Sociopolitical Areas of Interest](https://github.com/peteash10/2017-body-of-work/blob/master/4%20-%20Sociopolitical%20Areas%20of%20Interest.md) - Making it matter. The issues I'd like to explore and highlight with my work.
-5. [Inspirational Works](https://github.com/peteash10/2017-body-of-work/blob/master/5%20-%20Inspirational%20Works.md) - A small selection of pieces I admire. 
-6. [Potential Collaborators](https://github.com/peteash10/2017-body-of-work/blob/master/6%20-%20Potential%20Collaborators.md) - People and entities I'd like to work with.
+1.	[Opening Statement](https://github.com/peteash10/2017-body-of-work/blob/master/words/1%20-%20Opening%20Statement.md) - Aiming to have this down to three paragraphs. Will take a while to get there!
+2.	[Practical Areas of Interest](https://github.com/peteash10/2017-body-of-work/blob/master/words/2%20-%20Practical%20Areas%20of%20Interest.md) - The tools, methods and techniques I'm looking to use. 
+3.	[Theoretical Areas of Interest](https://github.com/peteash10/2017-body-of-work/blob/master/words/3%20-%20Theoretical%20Areas%20of%20Interest.md) - The ideas, theories and concepts I'm looking to explore with those tools. 
+4. [Sociopolitical Areas of Interest](https://github.com/peteash10/2017-body-of-work/blob/master/words/4%20-%20Sociopolitical%20Areas%20of%20Interest.md) - Making it matter. The issues I'd like to explore and highlight with my work.
+5. [Inspirational Works](https://github.com/peteash10/2017-body-of-work/blob/master/words/5%20-%20Inspirational%20Works.md) - A small selection of pieces I admire. 
+6. [Potential Collaborators](https://github.com/peteash10/2017-body-of-work/blob/master/words/6%20-%20Potential%20Collaborators.md) - People and entities I'd like to work with.
 
 ###Sub-Contents
 
 Other sections and bits of writing which flesh out the main thrust, as it were. 
 
 1. [Other works of mine which led up to this project](https://github.com/peteash10/2017-body-of-work/tree/master/Other-Works)
-2. [Why GitHub?](https://github.com/peteash10/2017-body-of-work/blob/master/Misc-Texts/Why%20Github.md) - Why I'm using this service rather than a website or blog. 
+2. [Why GitHub?](https://github.com/peteash10/2017-body-of-work/blob/master/words/Misc-Texts/Why%20Github.md) - Why I'm using this service rather than a website or blog. 
 
 ##Timeline
 
