@@ -37,3 +37,9 @@ See also [Manuel Vason](http://manuelvason.com)'s collaboration work.
 [Manuel Vason](http://manuelvason.com)
 
 A fascinating performance art project exploring what it means to be a photographer. Particularly like the [Becoming an Action](http://photoperformer.com/becoming-an-action/) piece. 
+
+##[Metaperceptual Helmets](http://www.connolly-cleary.com/Home/helmets.html)
+
+![](https://raw.githubusercontent.com/peteash10/2017-body-of-work/master/images/shapeimage_10.png)
+
+by [Connolly Cleary](http://www.connolly-cleary.com/), helmets which effectively move the eyeballs to locations found in other creatures to mimic how they see the world. Interesting how the human brain adjusts over time to wearing them. Would like to build similar devices! 
