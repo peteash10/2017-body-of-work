@@ -4,6 +4,10 @@ A wish-list of people and entities I'd like to collaborate with during the devel
 
 I am very open to suggestions of other people and entities I should consider approaching. 
 
+##People
+
+* [Gene Kogan](http://www.genekogan.com) is the Neural Networks go-to-guy. [Here's a good overview talk](https://vimeo.com/180044029) by him. See also everyone involved with [Alt-AI](http://alt-ai.net), a conference for using AI in art. At the very least I should go through his [Machine Learning for Artists]() classes.
+
 *	[James George](http://jamesgeorge.org/) at [Scatter](http://scatter.nyc) gave the talk that probably inspired me to start all this. I saw him at Resonate but [the Eyeo talk is the same](https://vimeo.com/134973504). 
 
 *	[Golan Levin](http://www.flong.com) ran the [Experimental Capture](http://golancourses.net/capture2016/) workshop I attended in 2016. He directs the [Studio for Creative Enquiry](http://studioforcreativeinquiry.org) at CMU. At very least will know of lots of people who I might want to collaborate with. 
@@ -12,7 +16,11 @@ I am very open to suggestions of other people and entities I should consider app
 
 * [Denis Connolly & Anne Cleary](http://www.connolly-cleary.com) for their work on perceptual devices, particularly the [Metaperceptual Helmets](http://www.connolly-cleary.com/Home/helmets.html) which I saw last year. 
 
-* [School of Machines, Making & Make-Believe](http://schoolofma.org). Looks simlar to BOM in outlook and runs courses that cover areas of interest to me. Could be worth exploring who is involved. 
+##Organisations
+
+* [School for Poetic Computation](http://sfpc.io) "is an artist run school in New York that was founded in 2013. A small group of students and faculty work closely to explore the intersections of code, design, hardware and theory — focusing especially on artistic intervention. It’s a hybrid of a school, residency and research group."
+
+* [School of Machines, Making & Make-Believe](http://schoolofma.org). Looks similar to BOM in outlook and runs courses that cover areas of interest to me. Could be worth exploring who is involved. 
 
 *	[The Centre for the Study of the Networked Image](http://www.centreforthestudyof.net) at London South Bank University seems to be exploring a lot of areas I'm interested in and has a collaboration with [The Photographer's Gallery](http://thephotographersgallery.org.uk). 
 
