@@ -21,7 +21,7 @@ I'm attempting to boil everything down into a series of documents. These will be
 
 Other sections and bits of writing which flesh out the main thrust, as it were. 
 
-1. [Other works of mine which led up to this project](https://github.com/peteash10/2017-body-of-work/tree/master/Other-Works)
+1. [Other works of mine which led up to this project](https://github.com/peteash10/2017-body-of-work/tree/master/words/Other-Works)
 2. [Why GitHub?](https://github.com/peteash10/2017-body-of-work/blob/master/words/Misc-Texts/Why%20Github.md) - Why I'm using this service rather than a website or blog. 
 
 ##Timeline
