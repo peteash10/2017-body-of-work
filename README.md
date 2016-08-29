@@ -16,6 +16,7 @@ I'm attempting to boil everything down into a series of documents. These will be
 4. [Sociopolitical Areas of Interest](https://github.com/peteash10/2017-body-of-work/blob/master/words/4%20-%20Sociopolitical%20Areas%20of%20Interest.md) - Making it matter. The issues I'd like to explore and highlight with my work.
 5. [Inspirational Works](https://github.com/peteash10/2017-body-of-work/blob/master/words/5%20-%20Inspirational%20Works.md) - A small selection of pieces I admire. 
 6. [Potential Collaborators](https://github.com/peteash10/2017-body-of-work/blob/master/words/6%20-%20Potential%20Collaborators.md) - People and entities I'd like to work with.
+7. [Practical Ideas](https://github.com/peteash10/2017-body-of-work/blob/master/words/7%20-%20Practical%20Plan.md) - Making it happen. The overall structure of my practice over this period and ideas for elements within it.
 
 ###Sub-Contents
 
