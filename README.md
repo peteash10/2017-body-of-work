@@ -8,7 +8,7 @@ My email is pete@peteashton.com and I'm on Twitter at [@peteashton](http://twitt
 
 ##Contents
 
-I'm attempting to boil everything down into a series of documents. These will be expanded, reduced, merged and split between whenever now is and the end of October 2016. Here's the current batch. 
+I'm attempting to boil everything down into a series of documents. These will be expanded, reduced, merged and split between now and the end of October 2016. Here's the current batch. 
 
 1.	[Opening Statement](https://github.com/peteash10/2017-body-of-work/blob/master/words/1%20-%20Opening%20Statement.md) - Aiming to have this down to three paragraphs. Will take a while to get there!
 2.	[Practical Areas of Interest](https://github.com/peteash10/2017-body-of-work/blob/master/words/2%20-%20Practical%20Areas%20of%20Interest.md) - The tools, methods and techniques I'm looking to use. 
@@ -24,6 +24,11 @@ Other sections and bits of writing which flesh out the main thrust, as it were.
 
 1. [Other works of mine which led up to this project](https://github.com/peteash10/2017-body-of-work/tree/master/words/Other-Works)
 2. [Why GitHub?](https://github.com/peteash10/2017-body-of-work/blob/master/words/Misc-Texts/Why%20Github.md) - Why I'm using this service rather than a website or blog. 
+3. [Focus](https://github.com/peteash10/2017-body-of-work/blob/master/words/Essays/Focus.md) - an essay on the differing meanings of the word in photography. 
+4. [Notes on Sitting In Stagram](https://github.com/peteash10/2017-body-of-work/blob/master/words/Essays/Notes%20on%20Sitting%20In%20Stagram.md) - An artwork of mine referencing Alvin Lucier went viral and caused some thoughts. 
+5. [Photographs are a form of data visualisation](https://github.com/peteash10/2017-body-of-work/blob/master/words/Essays/Photographs%20are%20a%20form%20of%20data%20visualisation.md) - I mean, it's obvious really. 
+6. [Systemic Photography](https://github.com/peteash10/2017-body-of-work/blob/master/words/Essays/Systemic%20Photography.md) - Thinking about Vilém Flusser and the systems that inform photography.
+7. [Understanding Schilling](https://github.com/peteash10/2017-body-of-work/blob/master/words/Essays/Understanding%20Schilling.md) - Trying to work out what the hell Alfons Schilling was doing and why. 
 
 ##Timeline
 
