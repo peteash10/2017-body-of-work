@@ -29,6 +29,7 @@ Other sections and bits of writing which flesh out the main thrust, as it were.
 5. [Photographs are a form of data visualisation](https://github.com/peteash10/2017-body-of-work/blob/master/words/Essays/Photographs%20are%20a%20form%20of%20data%20visualisation.md) - I mean, it's obvious really. 
 6. [Systemic Photography](https://github.com/peteash10/2017-body-of-work/blob/master/words/Essays/Systemic%20Photography.md) - Thinking about Vilém Flusser and the systems that inform photography.
 7. [Understanding Schilling](https://github.com/peteash10/2017-body-of-work/blob/master/words/Essays/Understanding%20Schilling.md) - Trying to work out what the hell Alfons Schilling was doing and why. 
+8. [How do digital cameras see?](https://github.com/peteash10/2017-body-of-work/blob/master/words/Essays/How%20do%20digital%20cameras%20see.md) - Moving from a purely photographic to a data-first model of thinking about cameras.
 
 ##Timeline
 
