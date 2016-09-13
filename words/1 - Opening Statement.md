@@ -4,11 +4,13 @@
 
 <h2 id="toc_1">Artist Statement</h2>
 
+<p><em>Since the art doesn&#39;t exist yet, this statement is for the concepts rattling around in my brain, and is written to help me focus it.</em></p>
+
 <p><em>Draft: 13th September 2016</em></p>
 
 <p><a href="http://peteashton.com">Pete Ashton</a> is exploring the algorithms and AI systems<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup> that increasingly inform our daily lives but which remain hidden or obscured from comprehension<sup id="fnref2"><a href="#fn2" rel="footnote">2</a></sup>. His practice uses ubiquitous cameras<sup id="fnref3"><a href="#fn3" rel="footnote">3</a></sup> and image analysis processes<sup id="fnref4"><a href="#fn4" rel="footnote">4</a></sup> to highlight the reach and biases of these algo-driven systems<sup id="fnref5"><a href="#fn5" rel="footnote">5</a></sup> and challenge the Silicon Valley orthodoxy<sup id="fnref6"><a href="#fn6" rel="footnote">6</a></sup> of &quot;one system fits all&quot;<sup id="fnref7"><a href="#fn7" rel="footnote">7</a></sup> as multinational tech companies move towards running public services<sup id="fnref8"><a href="#fn8" rel="footnote">8</a></sup>. </p>
 
-<p>Ashton&#39;s work frequently uses his home of Birmingham, a large city in central England with a long history of immigration<sup id="fnref9"><a href="#fn9" rel="footnote">9</a></sup>. Ravaged by austerity<sup id="fnref10"><a href="#fn10" rel="footnote">10</a></sup>, struggling with regeneration<sup id="fnref11"><a href="#fn11" rel="footnote">11</a></sup> and with a population evenly split on Brexit<sup id="fnref12"><a href="#fn12" rel="footnote">12</a></sup>, Birmingham is a perfect storm of post-industrial, post-internet, post-truth turmoil and confusion onto which society is layering artificial intelligence systems.  </p>
+<p>Ashton&#39;s artistic base is Birmingham, a large city in central England with a long history of immigration<sup id="fnref9"><a href="#fn9" rel="footnote">9</a></sup>. Ravaged by austerity<sup id="fnref10"><a href="#fn10" rel="footnote">10</a></sup>, struggling with regeneration<sup id="fnref11"><a href="#fn11" rel="footnote">11</a></sup> and with a population evenly split on Brexit<sup id="fnref12"><a href="#fn12" rel="footnote">12</a></sup>, Birmingham is a perfect storm of post-industrial, post-internet, post-truth turmoil and confusion onto which society is layering artificial intelligence systems.  </p>
 
 <p>Through collaboration with those potentially disadvantaged by the algorithmic state alongside those advocating its expansion, Ashton&#39;s work creates a space for contemplation and critical discussion with the aim of understanding ourselves and our trajectory as a civilisation.</p>
 
@@ -45,7 +47,7 @@
 </li>
 
 <li id="fn8">
-<p>Much of the <a href="https://en.wikipedia.org/wiki/Smart_city">Smart Cities</a> agenda involves large tech companies such as Google monopolising public services while promising social and financial benefits. There are, of course, <a href="https://en.wikipedia.org/wiki/Surveillance_issues_in_smart_cities">many issues</a> and <a href="https://www.theguardian.com/commentisfree/2016/sep/10/only-public-sector-finds-smart-technology-sexy?CMP=twt_gu">criticisms</a>.&nbsp;<a href="#fnref8" rev="footnote">&#8617;</a></p>
+<p>Much of the <a href="https://en.wikipedia.org/wiki/Smart_city">Smart Cities</a> agenda involved large tech companies such as Google monopolising public services while promising social and financial benefits. There are, of course, <a href="https://en.wikipedia.org/wiki/Surveillance_issues_in_smart_cities">many issues</a> and <a href="https://www.theguardian.com/commentisfree/2016/sep/10/only-public-sector-finds-smart-technology-sexy?CMP=twt_gu">criticisms</a>.&nbsp;<a href="#fnref8" rev="footnote">&#8617;</a></p>
 </li>
 
 <li id="fn9">
@@ -66,6 +68,5 @@
 
 </ol>
 </div>
-
 
 

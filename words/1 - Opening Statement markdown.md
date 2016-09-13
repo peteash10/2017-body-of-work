@@ -4,11 +4,13 @@ During 2017 I will be developing a new body of work, culminating in an exhibitio
 
 ##Artist Statement
 
+*Since the art doesn't exist yet, this statement is for the concepts rattling around in my brain, and is written to help me focus it.*
+
 *Draft: 13th September 2016*
 
-[Pete Ashton](http://peteashton.com) is exploring the algorithms and AI systems[^AI] that increasingly inform our daily lives but which remain hidden or obscured from comprehension[^Crawford]. His practice uses ubiquitous cameras[^ubiquitous] and image analysis processes[^cv] to highlight the reach and biases of these algo-driven systems[^how] and challenge the Silicon Valley orthodoxy[^Calideology] of "one-system-fits-all"[^onering] as multinational tech companies move towards running public services[^smartcities]. 
+[Pete Ashton](http://peteashton.com) is exploring the algorithms and AI systems[^AI] that increasingly inform our daily lives but which remain hidden or obscured from comprehension[^Crawford]. His practice uses ubiquitous cameras[^ubiquitous] and image analysis processes[^cv] to highlight the reach and biases of these algo-driven systems[^how] and challenge the Silicon Valley orthodoxy[^Calideology] of "one system fits all"[^onering] as multinational tech companies move towards running public services[^smartcities]. 
 
-Ashton's work frequently uses his home of Birmingham, a large city in central England with a long history of immigration[^bhamhist]. Ravaged by austerity[^austerity], struggling with regeneration[^regen] and with a population evenly split on Brexit[^brexit], Birmingham is a perfect storm of post-industrial, post-internet, post-truth turmoil and confusion onto which society is layering artificial intelligence systems.  
+Ashton's artistic base is Birmingham, a large city in central England with a long history of immigration[^bhamhist]. Ravaged by austerity[^austerity], struggling with regeneration[^regen] and with a population evenly split on Brexit[^brexit], Birmingham is a perfect storm of post-industrial, post-internet, post-truth turmoil and confusion onto which society is layering artificial intelligence systems.  
 
 Through collaboration with those potentially disadvantaged by the algorithmic state alongside those advocating its expansion, Ashton's work creates a space for contemplation and critical discussion with the aim of understanding ourselves and our trajectory as a civilisation.
 
