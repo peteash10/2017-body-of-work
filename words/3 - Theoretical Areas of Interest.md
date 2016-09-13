@@ -1,6 +1,25 @@
 #Theoretical Areas of Interest
 
-Enquiry into the production and consumption of images in the 21st century is a dauntingly huge challenge. My process over the next few months will be to narrow my areas of interest to a manageable number of subjects suitable for the production of new work. Here is the current list of ideas and approaches. 
+Enquiry into the production and consumption of images in the 21st century is a dauntingly huge challenge. My process over the next few months will be to narrow my areas of interest to a manageable number of subjects suitable for the production of new work. Here is the current list of ideas and approaches.
+
+
+##Artificial Inteligence is Hard to See
+
+[From Kate Crawford](https://medium.com/@katecrawford/artificial-intelligence-is-hard-to-see-a71e74f386db)
+
+>There needs to be a strong research field that measures and assesses the social and economic effects of current AI systems, in order to strengthen AI’s positive impacts and mitigate its risks. By measuring the impacts of these technologies, we can strengthen the design and development of AI, assist public and private actors in ensuring their systems are reliable and accountable, and reduce the possibility of errors. By building an empirical understanding of how AI functions on the ground, we can establish evidence-led models for responsible and ethical deployment, and ensure the healthy growth of the AI field.
+
+>If the social impacts of artificial intelligence are hard to see, it is critical to find rigorous ways to make them more visible and accountable. We need new tools to allow us to know how and when automated decisions are materially affecting our lives — and, if necessary, to contest them.
+
+##System Blindness
+
+> According to Goleman, one of the worst results of systems blindness occurs when we implement a strategy to fix a problem but ignore the involved system dynamics. Many problems are, unfortunately, too macro or micro for us to notice directly.
+
+>One example he gives is that of building more and wider roads to avoid traffic jams, which will eventually lead to even more traffic as people will take advantage of the better travel connections and move further away from urban areas. Another example is global warming. Energy and climate are a system. Everything that we’re doing is part of the healing of that system. It’s a systemic problem; climate meetings and agreements can only do so much.
+
+>Likewise, everything that we’re doing affects the success and failure of our software systems. When something doesn’t work as expected, I want you to remember this lesson: There are no side effects, just effects that result from our flawed understanding of the system.
+
+[via](https://medium.com/production-ready/systems-blindness-and-how-we-deal-with-it-d601fa63b7f4) 
 
 ##Power
 

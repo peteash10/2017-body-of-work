@@ -37,3 +37,10 @@ Again, I'm open to suggestions.
 * [Resonate](http://resonate.io)
 * [Eyeo](http://eyeofestival.com)
 * [Future Everything](http://futureeverything.org)
+
+Alisha at Centrala
+Crisis
+
+
+Marcell Mars
+
