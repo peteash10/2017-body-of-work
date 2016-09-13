@@ -1,4 +1,3 @@
-
 <h1 id="toc_0">Opening Statement</h1>
 
 <p>During 2017 I will be developing a new body of work, culminating in an exhibition at <a href="http://bom.org.uk">Birmingham Open Media</a> at the end of the year. </p>
@@ -11,7 +10,7 @@
 
 <p>Ashton&#39;s work frequently uses his home of Birmingham, a large city in central England with a long history of immigration<sup id="fnref9"><a href="#fn9" rel="footnote">9</a></sup>. Ravaged by austerity<sup id="fnref10"><a href="#fn10" rel="footnote">10</a></sup>, struggling with regeneration<sup id="fnref11"><a href="#fn11" rel="footnote">11</a></sup> and with a population evenly split on Brexit<sup id="fnref12"><a href="#fn12" rel="footnote">12</a></sup>, Birmingham is a perfect storm of post-industrial, post-internet, post-truth turmoil and confusion onto which society is layering artificial intelligence systems.  </p>
 
-<p>Ashton&#39;s work hopes to create a space for contemplation and discussion of these issues, encouraging a critical and skeptical analysis of positions from the utopian tech innovators to the reactionary neo-luddites through a deeper understanding of these hidden systems. In doing so he hopes we also understand ourselves and our trajectory as a civilisation.</p>
+<p>Through collaboration with those potentially disadvantaged by the algorithmic state alongside those advocating its expansion, Ashton&#39;s work creates a space for contemplation and critical discussion with the aim of understanding ourselves and our trajectory as a civilisation.</p>
 
 <div class="footnotes">
 <hr>
@@ -67,6 +66,5 @@
 
 </ol>
 </div>
-
 
 

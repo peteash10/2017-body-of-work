@@ -10,7 +10,7 @@ During 2017 I will be developing a new body of work, culminating in an exhibitio
 
 Ashton's work frequently uses his home of Birmingham, a large city in central England with a long history of immigration[^bhamhist]. Ravaged by austerity[^austerity], struggling with regeneration[^regen] and with a population evenly split on Brexit[^brexit], Birmingham is a perfect storm of post-industrial, post-internet, post-truth turmoil and confusion onto which society is layering artificial intelligence systems.  
 
-Ashton's work hopes to create a space for contemplation and discussion of these issues, encouraging a critical and skeptical analysis of positions from the utopian tech innovators to the reactionary neo-luddites through a deeper understanding of these hidden systems. In doing so he hopes we also understand ourselves and our trajectory as a civilisation.
+Through collaboration with those potentially disadvantaged by the algorithmic state alongside those advocating its expansion, Ashton's work creates a space for contemplation and critical discussion with the aim of understanding ourselves and our trajectory as a civilisation.
 
 
 [^AI]: Artificial Intelligence in this context is very complex algorithms which attempt to mimic processes of the brain. It does not necessarily imply "intelligence" in a [Turning Test](https://en.wikipedia.org/wiki/Turing_test) sense. Other terms include [Neural Networks](https://en.wikipedia.org/wiki/Artificial_neural_network) and [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning). See [Machine Learning for Artists by Gene Kogan](https://medium.com/@genekogan/machine-learning-for-artists-e93d20fdb097#.zets4x170). 
