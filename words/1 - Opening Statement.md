@@ -6,14 +6,14 @@ During 2017 I will be developing a new body of work, culminating in an exhibitio
 
 *Draft: 13th September 2016*
 
-[Pete Ashton](http://peteashton.com) is exploring the algorithms and AI systems[1] that increasingly inform our daily lives but which remain hidden or obscured from comprehension[^Crawford]. His practice uses ubiquitous cameras[^ubiquitous] and image analysis processes[^cv] to highlight the reach and biases of these algo-driven systems[^how] and challenge the Silicon Valley orthodoxy[^Calideology] of "one-system-fits-all"[^onering] as multinational tech companies move towards running public services[^smartcities]. 
+[Pete Ashton](http://peteashton.com) is exploring the algorithms and AI systems[^AI] that increasingly inform our daily lives but which remain hidden or obscured from comprehension[^Crawford]. His practice uses ubiquitous cameras[^ubiquitous] and image analysis processes[^cv] to highlight the reach and biases of these algo-driven systems[^how] and challenge the Silicon Valley orthodoxy[^Calideology] of "one-system-fits-all"[^onering] as multinational tech companies move towards running public services[^smartcities]. 
 
 Ashton's work frequently uses his home of Birmingham, a large city in central England with a long history of immigration[^bhamhist]. Ravaged by austerity[^austerity], struggling with regeneration[^regen] and with a population evenly split on Brexit[^brexit], Birmingham is a perfect storm of post-industrial, post-internet, post-truth turmoil and confusion onto which society is layering artificial intelligence systems.  
 
 Ashton's work hopes to create a space for contemplation and discussion of these issues, encouraging a critical and skeptical analysis of positions from the utopian tech innovators to the reactionary neo-luddites through a deeper understanding of these hidden systems. In doing so he hopes we also understand ourselves and our trajectory as a civilisation.
 
 
-[1]: Artificial Intelligence in this context is very complex algorithms which attempt to mimic processes of the brain. It does not necessarily imply "intelligence" in a [Turning Test](https://en.wikipedia.org/wiki/Turing_test) sense. Other terms include [Neural Networks](https://en.wikipedia.org/wiki/Artificial_neural_network) and [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning). See [Machine Learning for Artists by Gene Kogan](https://medium.com/@genekogan/machine-learning-for-artists-e93d20fdb097#.zets4x170). 
+[^AI]: Artificial Intelligence in this context is very complex algorithms which attempt to mimic processes of the brain. It does not necessarily imply "intelligence" in a [Turning Test](https://en.wikipedia.org/wiki/Turing_test) sense. Other terms include [Neural Networks](https://en.wikipedia.org/wiki/Artificial_neural_network) and [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning). See [Machine Learning for Artists by Gene Kogan](https://medium.com/@genekogan/machine-learning-for-artists-e93d20fdb097#.zets4x170). 
 
 
 [^Crawford]: See Kate Crawford: [Artificial Intelligence is hard to see](https://medium.com/@katecrawford/artificial-intelligence-is-hard-to-see-a71e74f386db)
