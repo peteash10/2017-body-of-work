@@ -45,7 +45,7 @@
 </li>
 
 <li id="fn8">
-<p>Much of the <a href="https://en.wikipedia.org/wiki/Smart_city">Smart Cities</a> agenda involved large tech companies such as Google monopolising public services while promising social and financial benefits. There are, of course, <a href="https://en.wikipedia.org/wiki/Surveillance_issues_in_smart_cities">many issues</a> and <a href="https://www.theguardian.com/commentisfree/2016/sep/10/only-public-sector-finds-smart-technology-sexy?CMP=twt_gu">criticisms</a>.&nbsp;<a href="#fnref8" rev="footnote">&#8617;</a></p>
+<p>Much of the <a href="https://en.wikipedia.org/wiki/Smart_city">Smart Cities</a> agenda involves large tech companies such as Google monopolising public services while promising social and financial benefits. There are, of course, <a href="https://en.wikipedia.org/wiki/Surveillance_issues_in_smart_cities">many issues</a> and <a href="https://www.theguardian.com/commentisfree/2016/sep/10/only-public-sector-finds-smart-technology-sexy?CMP=twt_gu">criticisms</a>.&nbsp;<a href="#fnref8" rev="footnote">&#8617;</a></p>
 </li>
 
 <li id="fn9">
