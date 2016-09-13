@@ -49,7 +49,7 @@
 </li>
 
 <li id="fn9">
-<p>As a Victorian city at the heart of the Industrial Revolution, Birmingham grew rapidly and always attracted immigrants, notably Irish, Indian/Pakistani, Caribbean and recently East European. Raw <a href="https://en.wikipedia.org/wiki/Demography_of_Birmingham">demographic numbers</a> imply a multicultural community <a href="https://en.wikipedia.org/wiki/Demography_of_Birmingham#Ethnicity">local breakdowns</a> reveal a city quite strongly divided on ethnic lines. Questions about Birmingham&#39;s fluid identity are fraught with complexity and often oversimplified for political gain.&nbsp;<a href="#fnref9" rev="footnote">&#8617;</a></p>
+<p>As a Victorian city at the heart of the Industrial Revolution, Birmingham grew rapidly and always attracted immigrants, notably Irish, Indian/Pakistani, Caribbean and recently East European. While headline <a href="https://en.wikipedia.org/wiki/Demography_of_Birmingham">demographic numbers</a> imply a multicultural community, <a href="https://en.wikipedia.org/wiki/Demography_of_Birmingham#Ethnicity">local breakdowns</a> reveal a city quite strongly divided on ethnic lines. Questions about Birmingham&#39;s fluid identity are fraught with complexity and often oversimplified for political gain.&nbsp;<a href="#fnref9" rev="footnote">&#8617;</a></p>
 </li>
 
 <li id="fn10">
@@ -66,5 +66,6 @@
 
 </ol>
 </div>
+
 
 

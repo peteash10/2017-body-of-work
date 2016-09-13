@@ -24,3 +24,7 @@ Photographing someone can be an agressive act against vulnerable and minority pe
 See also, [Jon Raffman on Google Street View](http://artfcity.com/2009/08/12/img-mgmt-the-nine-eyes-of-google-street-view/):
 
 >"In theory, we are all equally subject to being photographed, but the Street View collections often reveal it is the poor and the marginalized who fall within the purview of the Google camera gaze."
+
+##Brexit
+
+Brexit means many things to many people but is as good a symbol of the problems we face as a society as any. The Brexit result affected me deeply for reasons I can articulate at length but struggle to fully understand. I feel it will either be at the centre of, or hover over, my work.

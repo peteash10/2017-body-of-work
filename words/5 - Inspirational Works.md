@@ -1,6 +1,12 @@
 #Inspirational Works
 
-A small selection of works by others which have helped inform and inspire my practice. 
+A small selection of works by others which have or will inform and inspire my practice. 
+
+##[NeuralTalk and Walk](https://vimeo.com/146492001)
+
+![](https://raw.githubusercontent.com/peteash10/2017-body-of-work/master/images/neuralwalktalk.jpg)
+
+Kyle McDonald adapts the Recurrent Neural Network captioning programme [NeuralTalk2](https://github.com/karpathy/neuraltalk2) to run on his laptop webcam stream and walks around Amsterdam. 
 
 ##[Depth Editor Debug](http://scatter.nyc/deptheditordebug)
 

@@ -2,6 +2,10 @@
 
 Enquiry into the production and consumption of images in the 21st century is a dauntingly huge challenge. My process over the next few months will be to narrow my areas of interest to a manageable number of subjects suitable for the production of new work. Here is the current list of tools, methods and practical approaches. 
 
+##Computer Vision
+
+From basic shape tracking to object recognition. A nice example of the latter is Kyle McDonald's piece [NeuralTalk and Walk](https://vimeo.com/146492001).
+
 ##Neural Networks
 
 [Deep Dream](http://deepdreamgenerator.com), [Style Transfer](https://frankzliu.com/artistic-style-transfer/), etc. 

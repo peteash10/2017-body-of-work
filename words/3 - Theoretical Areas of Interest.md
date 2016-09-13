@@ -50,3 +50,10 @@ To quote Lev Manovich:
 ##Data Portraiture
 
 Lots of things come under this, from Google, Facebook, etc generating profiles to Fitbit health data to DNA reconstructions and so on. The connection to photography is perhaps tenuous, but the connection to portraiture is fascinating. Is there a "painting > photography > data" line? Can a data portrait be "composed"? How might a data artist approach portraiture? 
+
+##Vilem Flusser
+
+The guy who started all this off for me, [thanks to James George](https://vimeo.com/134973504). I talk about my mild obsession with Flusser [at this point](https://vimeo.com/159868781#t=513s) of my BOM Fellows talk. 
+
+-	[Wikipedia entry](https://en.wikipedia.org/wiki/Vilém_Flusser). 
+- [Some notes of mine from July 2015.](https://github.com/peteash10/2017-body-of-work/blob/master/words/Essays/Systemic%20Photography.md)
