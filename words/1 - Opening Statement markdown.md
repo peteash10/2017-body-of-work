@@ -4,7 +4,7 @@ During 2017 I will be developing a new body of work, culminating in an exhibitio
 
 ##Artist Statement of Intent
 
-*Draft: 13th September 2016. Following footnotes is not obligatory.*
+*2nd draft: 15th September 2016.*
 
 [Pete Ashton](http://peteashton.com) is exploring the computer programmes, algorithms and Artificial Intelligence (AI) systems[^AI] that inform our daily lives but are hidden or obscured from our comprehension[^Crawford]. His practice uses ubiquitous cameras[^ubiquitous] and image analysis[^cv] to highlight the reach and biases of these complex systems and challenge the Silicon Valley orthodoxy of "one system fits all"[^onering] as multinational tech companies expand from Internet services into the Smart Cities arena[^smartcities]. 
 
@@ -19,7 +19,7 @@ Ashton sees the photograph as just one way to visualise a camera's data and his 
 
 [^Victims]: For example, [Predictive Policing](https://en.wikipedia.org/wiki/Predictive_policing) has run into [accusations of amplifying biases](http://www.civilrights.org/press/2016/predictive-policing-statement.html). 
 
-[^Digibrum]: [Digital Birmingham's Smart City Roadmap](http://digitalbirmingham.co.uk/service/smart-cities/)
+[^Digibrum]: See [Digital Birmingham's Smart City Roadmap](http://digitalbirmingham.co.uk/service/smart-cities/) and the [Birmingham Smart City Alliance](https://birminghamsmartcityalliance.wordpress.com)
 
 [^AI]: Artificial Intelligence in this context is very complex algorithms which attempt to mimic processes of the brain. It does not necessarily imply "intelligence" in a [Turning Test](https://en.wikipedia.org/wiki/Turing_test) sense. Other terms include [Neural Networks](https://en.wikipedia.org/wiki/Artificial_neural_network) and [Machine Learning](https://en.wikipedia.org/wiki/Machine_learning). See [Machine Learning for Artists by Gene Kogan](https://medium.com/@genekogan/machine-learning-for-artists-e93d20fdb097#.zets4x170). 
 

@@ -4,7 +4,7 @@
 
 <h2 id="toc_1">Artist Statement of Intent</h2>
 
-<p><em>Draft: 13th September 2016. Following footnotes is not obligatory.</em></p>
+<p><em>2nd draft: 15th September 2016.</em></p>
 
 <p><a href="http://peteashton.com">Pete Ashton</a> is exploring the computer programmes, algorithms and Artificial Intelligence (AI) systems<sup id="fnref1"><a href="#fn1" rel="footnote">1</a></sup> that inform our daily lives but are hidden or obscured from our comprehension<sup id="fnref2"><a href="#fn2" rel="footnote">2</a></sup>. His practice uses ubiquitous cameras<sup id="fnref3"><a href="#fn3" rel="footnote">3</a></sup> and image analysis<sup id="fnref4"><a href="#fn4" rel="footnote">4</a></sup> to highlight the reach and biases of these complex systems and challenge the Silicon Valley orthodoxy of &quot;one system fits all&quot;<sup id="fnref5"><a href="#fn5" rel="footnote">5</a></sup> as multinational tech companies expand from Internet services into the Smart Cities arena<sup id="fnref6"><a href="#fn6" rel="footnote">6</a></sup>. </p>
 
@@ -51,7 +51,7 @@
 </li>
 
 <li id="fn9">
-<p><a href="http://digitalbirmingham.co.uk/service/smart-cities/">Digital Birmingham&#39;s Smart City Roadmap</a>&nbsp;<a href="#fnref9" rev="footnote">&#8617;</a></p>
+<p>See <a href="http://digitalbirmingham.co.uk/service/smart-cities/">Digital Birmingham&#39;s Smart City Roadmap</a> and the <a href="https://birminghamsmartcityalliance.wordpress.com">Birmingham Smart City Alliance</a>&nbsp;<a href="#fnref9" rev="footnote">&#8617;</a></p>
 </li>
 
 <li id="fn10">
