@@ -6,6 +6,8 @@ I am very open to suggestions of other people and entities I should consider app
 
 ##People
 
+* [Rick Robinson](https://theurbantechnologist.com) - IT Director for Smart Data and Technology for Amey, founder and the current chair of the [Birmingham Smart City Alliance](https://birminghamsmartcityalliance.wordpress.com).
+
 * [Kate Crawford](http://www.katecrawford.net) "is a Principal Researcher at Microsoft Research New York City, a Visiting Professor at MIT's Center for Civic Media, and a Senior Fellow at NYU's Information Law Institute. Her research addresses the social implications of large scale data, machine learning and AI."
 
 * [Gene Kogan](http://www.genekogan.com) is the Neural Networks go-to-guy. [Here's a good overview talk](https://vimeo.com/180044029) by him. See also everyone involved with [Alt-AI](http://alt-ai.net), a conference for using AI in art. At the very least I should go through his [Machine Learning for Artists]() classes.
