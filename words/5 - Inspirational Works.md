@@ -8,6 +8,14 @@ A small selection of works by others which have or will inform and inspire my pr
 
 Kyle McDonald adapts the Recurrent Neural Network captioning programme [NeuralTalk2](https://github.com/karpathy/neuraltalk2) to run on his laptop webcam stream and walks around Amsterdam. 
 
+##[Profilograph](http://pablogarcia.org/projects/profilograph-after-duerer/)
+
+2013 | Pablo Garcia
+
+![](https://raw.githubusercontent.com/peteash10/2017-body-of-work/master/images/6_profilograph-durer-side-elevation.jpg)
+
+Transforming Albrecht Dürer's study of human profiles into an extruded 3D model which casts a shadow. 
+
 ##[Depth Editor Debug](http://scatter.nyc/deptheditordebug)
 
 [![](https://raw.githubusercontent.com/peteash10/2017-body-of-work/master/images/deptheditordebug.jpeg)](http://scatter.nyc/deptheditordebug)
