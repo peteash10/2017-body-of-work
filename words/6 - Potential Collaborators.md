@@ -6,7 +6,8 @@ I am very open to suggestions of other people and entities I should consider app
 
 ##People
 
-* [Rick Robinson](https://theurbantechnologist.com) - IT Director for Smart Data and Technology for Amey, founder and the current chair of the [Birmingham Smart City Alliance](https://birminghamsmartcityalliance.wordpress.com).
+* [Rick Robinson](https://theurbantechnologist.com) - IT Director for Smart Data and Technology for Amey, founder and the current chair of the [Birmingham Smart City Alliance](https://birminghamsmartcityalliance.wordpress.com). 
+[Interview with him.](https://www.newcivilengineer.com/latest/nce-live/project-profile-smart-infrastructure/10008429.article) 
 
 * [Kate Crawford](http://www.katecrawford.net) "is a Principal Researcher at Microsoft Research New York City, a Visiting Professor at MIT's Center for Civic Media, and a Senior Fellow at NYU's Information Law Institute. Her research addresses the social implications of large scale data, machine learning and AI."
 
