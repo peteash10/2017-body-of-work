@@ -11,6 +11,12 @@ Enquiry into the production and consumption of images in the 21st century is a d
 
 >If the social impacts of artificial intelligence are hard to see, it is critical to find rigorous ways to make them more visible and accountable. We need new tools to allow us to know how and when automated decisions are materially affecting our lives — and, if necessary, to contest them.
 
+##Surveillance Capitalism
+
+From [Big Other: Surveillance Capitalism and the Prospects of an Information Civilization](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2594754) by Shoshana Zuboff 
+
+> Google is to surveillance capitalism what General Motors was to managerial capitalism. Therefore the institutionalizing practices and operational assumptions of Google Inc. are the primary lens for this analysis as they are rendered in two recent articles authored by Google Chief Economist Hal Varian. Varian asserts four uses that follow from computer-mediated transactions: ‘data extraction and analysis,’ ‘new contractual forms due to better monitoring,’ ‘personalization and customization,’ and ‘continuous experiments.’ An examination of the nature and consequences of these uses sheds light on the implicit logic of surveillance capitalism and the global architecture of computer mediation upon which it depends. 
+
 ##System Blindness
 
 > According to Goleman, one of the worst results of systems blindness occurs when we implement a strategy to fix a problem but ignore the involved system dynamics. Many problems are, unfortunately, too macro or micro for us to notice directly.
