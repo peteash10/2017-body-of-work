@@ -14,7 +14,7 @@ Kyle McDonald adapts the Recurrent Neural Network captioning programme [NeuralTa
 
 ![](https://raw.githubusercontent.com/peteash10/2017-body-of-work/master/images/6_profilograph-durer-side-elevation.jpg)
 
-Transforming Albrecht Dürer's study of human profiles into an extruded 3D model which casts a shadow. 
+Transforming Albrecht Dürer's study of human profiles into an extruded 3D model which casts a shadow. I want to create "photographs" that are not restricted to a piece of paper or flat screen. Sculpture is always on my mind. w
 
 ##[Depth Editor Debug](http://scatter.nyc/deptheditordebug)
 

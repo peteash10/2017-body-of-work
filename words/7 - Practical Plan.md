@@ -18,10 +18,6 @@ Close to BOM. Have got permissions to use it before. Liminal space on ring road.
 
 Noting them as they come to me. To be developed, merged or discarded as appropriate over time. 
 
-###Polish community post-Brexit
-
-
-
 ###Group Capture
 
 A group of people, maybe school kids, maybe vulnerable or minority people, capture an area of the city with a variety of devices across a range of spectrums and media. This is then turned into a piece of some kind. Multi-authored, directed by me. 
@@ -36,11 +32,19 @@ A multi-lens, multi-wave, sensory device that captures it's surroundings based o
 
 Get access to windows and viewpoints overlooking the area under study, views which are only seen by a small number of people but for extended periods (ie, someone's office desk). Portraits of the people with their view? 
 
+###Race filter
+
+Take multiple photos from a static camera of an area and edit them to produce a series of images where all people are of same ethnicity. Highlight diversity of city by erasing it. 
+
 ###Archive of insignificant features
 
 Treating the small and insignificant aspects of the environment as if they were precious objects to be studied and archived. From bricks to lichen to decorative features on railings. 
 
+###Multi POV narration
+
+Ask a number of people to record themselves narrating everything around them in a public space at the same time. Video the scene simultaneously. Sync all recordings so viewers can switch between POVs. 
+
 
 ##Outputs
 
-
+tk

@@ -10,12 +10,11 @@ A big inspiration for this is how [James Bridle](http://booktwo.org/james-bridle
 
 ##Surveillance 
 
-You cannot talk about cameras in the 21st century without talking about surveillance. But CCTV cameras are quite old now and this issues that surround them have probably changed. I'd like to look at how urban surveillance has changed over the last decade with the introduction of computer vision and data crunching. And also look at where it fails and doesn't reflect the "security theatre". 
+You cannot talk about cameras in the 21st century without talking about surveillance. But CCTV cameras are quite old now and this issues that surround them have probably changed. I'd like to look at how urban surveillance has changed over the last decade with the introduction of computer vision and artificial intelligence, and also look at where it fails but is maintained as "security theatre". 
 
 ##Points of View
 
-Where a camera is mounted or how a camera is held is a political decision. Body cameras on the Police are fascinating because they surveille their activities but only from their perspective. I'd like to look into this. 
-
+Where a camera is mounted or how a camera is held is a political decision. Body cameras on the Police are fascinating because they surveille their activities but only from their perspective. Despite over a century of popular photography many still assume a photograph tells an objective truth, possibly because it is mechanistic. I'd like to extend this to AI systems and the falacy in tech businesses like Facebook that their mechanistic systems are objective. 
 
 ##Cameras as tools of oppression
 

@@ -34,7 +34,7 @@ Specifically the power the person holding or controlling the camera (and/or the 
 Examples:
 
 * Protesters photographing police photographers. 
-* Selfies as an elimination of the photographer from the image making process. 
+* Selfies as an elimination of the photographer-as-other from the image making process. 
 * Documenting CCTV and other surveillance infrastructure.
 
 ##Data-First Photography
@@ -43,7 +43,7 @@ What does it mean to compose a photograph for the data it will capture, rather t
 
 Is there any aesthetic value to be found in photographs taken purely for data? 
 
-(See also [Vernacular Photography](https://en.wikipedia.org/wiki/Vernacular_photography), maybe. People taking photos purely to record what was there, not concerned about it looking "nice".)
+(Is this maybe the next stage of [Vernacular Photography](https://en.wikipedia.org/wiki/Vernacular_photography)? People taking photos purely to record what was there, not overly concerned about it looking "nice".)
 
 ##There Is Only Software
 
@@ -63,3 +63,6 @@ The guy who started all this off for me, [thanks to James George](https://vimeo.
 
 -	[Wikipedia entry](https://en.wikipedia.org/wiki/Vilém_Flusser). 
 - [Some notes of mine from July 2015.](https://github.com/peteash10/2017-body-of-work/blob/master/words/Essays/Systemic%20Photography.md)
+
+Flusser's point that I latched on to is the camera as a mechanical system is as, if not more, important than the intention of the person holding the camera, in how it informs the content of the image. Further, these systems go beyond the cameras as a device and include all the industrial, econimic and political systems that inform why the camera is the way it is. This is a really good way of thinking about, say, surveillance cameras where the device is very simple but the systems behind the device are massively complex. 
+

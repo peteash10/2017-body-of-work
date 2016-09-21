@@ -14,7 +14,7 @@ I am very open to suggestions of other people and entities I should consider app
 *	[Nathan Jurgenson](http://nathanjurgenson.com) "is a sociologist and social media theorist, the founder and editor in chief of Real Life magazine, the co-founder and chair of the Theorizing the Web conference, a contributing editor of the New Inquiry, and a researcher at Snapchat." 
 
 
-* [Gene Kogan](http://www.genekogan.com) is the Neural Networks go-to-guy. [Here's a good overview talk](https://vimeo.com/180044029) by him. See also everyone involved with [Alt-AI](http://alt-ai.net), a conference for using AI in art. At the very least I should go through his [Machine Learning for Artists]() classes.
+* [Gene Kogan](http://www.genekogan.com) is the Neural Networks go-to-guy. [Here's a good overview talk](https://vimeo.com/180044029) by him. See also everyone involved with [Alt-AI](http://alt-ai.net), a conference for using AI in art. At the very least I should go through his [Machine Learning for Artists](http://ml4a.github.io/classes/itp-S16/) classes.
 
 *	[James George](http://jamesgeorge.org/) at [Scatter](http://scatter.nyc) gave the talk that probably inspired me to start all this. I saw him at Resonate but [the Eyeo talk is the same](https://vimeo.com/134973504). 
 
@@ -25,6 +25,10 @@ I am very open to suggestions of other people and entities I should consider app
 * [Denis Connolly & Anne Cleary](http://www.connolly-cleary.com) for their work on perceptual devices, particularly the [Metaperceptual Helmets](http://www.connolly-cleary.com/Home/helmets.html) which I saw last year. 
 
 ##Organisations
+
+* [Centrala](http://centrala-space.org.uk). I have connections with a Polish ex-pat community in Birmingham based around the Centrala cafe/gallery in Digbeth who have been quite vocal post-Brexit.
+
+* [Crisis Skylight](http://www.crisis.org.uk/pages/crisis-skylight-birmingham.html). I did some photography work for their [Art in Crisis](http://www.crisis.org.uk/pages/art-in-crisis-birmingham.html) festival, working with vulneralble adults, and found it very rewarding and interesting. I'd like to collaborate with them again.
 
 * [School for Poetic Computation](http://sfpc.io) "is an artist run school in New York that was founded in 2013. A small group of students and faculty work closely to explore the intersections of code, design, hardware and theory — focusing especially on artistic intervention. It’s a hybrid of a school, residency and research group."
 
