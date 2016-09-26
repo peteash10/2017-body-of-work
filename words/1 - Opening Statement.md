@@ -14,6 +14,8 @@
 
 <p>Ashton sees the photograph as just one way to visualise a camera&#39;s data and his camera-based work involves print, video, software, sound, statistical analysis, walking, sculpture, performance and other media.</p>
 
+<p><img src="https://raw.githubusercontent.com/peteash10/2017-body-of-work/master/images/Machine%20Learning%20Algorithm.png" alt=""></p>
+
 <div class="footnotes">
 <hr>
 <ol>

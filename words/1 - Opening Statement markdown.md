@@ -14,7 +14,7 @@ While photograph image processing is a small part of the AI ecology, Ashton's ca
 
 Ashton sees the photograph as just one way to visualise a camera's data and his camera-based work involves print, video, software, sound, statistical analysis, walking, sculpture, performance and other media.
 
-
+![](https://raw.githubusercontent.com/peteash10/2017-body-of-work/master/images/Machine%20Learning%20Algorithm.png)
 
 
 [^Victims]: For example, [Predictive Policing](https://en.wikipedia.org/wiki/Predictive_policing) has run into [accusations of amplifying biases](http://www.civilrights.org/press/2016/predictive-policing-statement.html). 

@@ -49,6 +49,7 @@ Again, I'm open to suggestions.
 * [Resonate](http://resonate.io)
 * [Eyeo](http://eyeofestival.com)
 * [Future Everything](http://futureeverything.org)
+* http://convergence-london.com
 
 Alisha at Centrala
 Crisis

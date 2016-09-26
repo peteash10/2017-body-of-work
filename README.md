@@ -1,6 +1,6 @@
 #Notes and works in progress towards my new body of work for 2017
 
-In late 2017 I will be presenting a new body of work as the culmination of a three year fellowship at [Birmingham Open Media](http://bom.org.uk). Between now and then I will be preparing for and creating this work. I will be using this repository to collect, process and refine my ideas and approaches. You are welcome to peruse, share and collaborate with me if you feel the need or desire. 
+In late 2017 I will be exhibiting a new body of work as the culmination of a three year fellowship at [Birmingham Open Media](http://bom.org.uk). Between now and then I will be preparing for and creating this work. I will be using this repository to collect, process and refine my ideas and approaches. You are welcome to peruse, share and collaborate with me if you feel the need or desire. 
 
 No pages here are complete (unless otherwise stated). There will be typos. 
 
@@ -8,15 +8,15 @@ My email is pete@peteashton.com and I'm on Twitter at [@peteashton](http://twitt
 
 ##Headline Summary
 
-A series of camera-derived artworks exploring the effects of Artificial Intelligence systems in the public sector
+**A series of camera-derived artworks exploring the effects of Artificial Intelligence systems in the public sector**
 
-**Keyword soup:** post-photography, machine learning, artificial intelligence, algorithmic policing, surveillance capitalism, smart cities, Californian Ideology, neural networks, digital exclusion, psychogeography, civic identity.
+***Keyword soup:*** *post-photography, machine learning, artificial intelligence, algorithmic policing, surveillance capitalism, smart cities, Californian Ideology, neural networks, digital exclusion, psychogeography, civic identity.*
 
 ##Contents
 
 I'm attempting to boil everything down into a series of documents. These will be expanded, reduced, merged and split between now and the end of October 2016. Here's the current batch. 
 
-1.	[Opening Statement](https://github.com/peteash10/2017-body-of-work/blob/master/words/1%20-%20Opening%20Statement.md) - Have got this down to four paragraphs (plus footnotes).
+1.	[Artist Statement](https://github.com/peteash10/2017-body-of-work/blob/master/words/1%20-%20Opening%20Statement.md) - Have got this down to four paragraphs (plus footnotes).
 2.	[Practical Areas of Interest](https://github.com/peteash10/2017-body-of-work/blob/master/words/2%20-%20Practical%20Areas%20of%20Interest.md) - The tools, methods and techniques I'm looking to use. 
 3.	[Theoretical Areas of Interest](https://github.com/peteash10/2017-body-of-work/blob/master/words/3%20-%20Theoretical%20Areas%20of%20Interest.md) - The ideas, theories and concepts I'm looking to explore with those tools. 
 4. [Sociopolitical Areas of Interest](https://github.com/peteash10/2017-body-of-work/blob/master/words/4%20-%20Sociopolitical%20Areas%20of%20Interest.md) - Making it matter. The issues I'd like to explore and highlight with my work.

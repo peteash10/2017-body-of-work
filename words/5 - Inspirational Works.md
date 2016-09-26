@@ -57,3 +57,9 @@ A fascinating performance art project exploring what it means to be a photograph
 ![](https://raw.githubusercontent.com/peteash10/2017-body-of-work/master/images/shapeimage_10.png)
 
 by [Connolly Cleary](http://www.connolly-cleary.com/), helmets which effectively move the eyeballs to locations found in other creatures to mimic how they see the world. Interesting how the human brain adjusts over time to wearing them. Would like to build similar devices! 
+
+##[Immaterials: Light painting WiFi](https://vimeo.com/20412632)
+
+[![](https://c6.staticflickr.com/6/5054/5479468325_7a0c3f1c22_b.jpg)](https://vimeo.com/20412632)
+
+>This project explores the invisible terrain of WiFi networks in urban spaces by light painting signal strength in long-exposure photographs. A four-metre tall measuring rod with 80 points of light reveals cross-sections through WiFi networks using a photographic technique called light-painting.
