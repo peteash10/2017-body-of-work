@@ -10,7 +10,7 @@ During 2017 I will be developing a new body of work, culminating in an exhibitio
 
 This rise in the capabilities of corporate AI coincides with the turmoil of late-capitalism and failure of austerity policies which have ravaged cities like the artist's hometown of Birmingham[^austerity]. As AI-powered systems are brought in to deliver efficiencies as much as services, Ashton's work highlights those parts of society which may suffer from a new digital divide[^Digidivide]. 
 
-While photograph image processing is a small part of the AI ecology, Ashton's camera-derived visual art makes these issues comprehendible and invites the viewer to explore broader questions about AI and society. Through collaboration with AI advocates[^Digibrum], and those potentially disadvantaged by its implementation[^Victims], his work explores how AI can represent a city in unexpected ways and the questions that arise concerning their accuracy and social effects. 
+While photograph image processing is a small part of the AI ecology, Ashton's camera-derived visual art makes these issues comprehendible and invites the viewer to explore broader questions about AI and society. Through collaboration with AI advocates[^Digibrum], and those potentially disadvantaged by its implementation[^Victims], his work explores how algorithms can represent a city in unexpected ways and the questions that arise concerning their accuracy and social effects. 
 
 Ashton sees the photograph as just one way to visualise a camera's data and his camera-based work involves print, video, software, sound, statistical analysis, walking, sculpture, performance and other media.
 

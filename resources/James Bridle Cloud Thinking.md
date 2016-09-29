@@ -1,6 +1,6 @@
 #Not a Conclusion: Cloud Thinking
 
-*Extracted from [Cloud Thinking](https://medium.com/@stml/cloud-thinking-d92c5cd4b439#.qro7b2si6) by James Bridle*. Emphasis mine. 
+*Extracted from [Cloud History, Cloud Thinking](http://cloudindx.com/history/) by James Bridle*. Emphasis mine. 
 
 To live in the world today is to live under, and within, a cloud. The planetary scale of the climate has finally been replicated in the planetary scale of our information systems, which encircle the globe. Both of these systems are, quite literally, out of control.
 
