@@ -37,7 +37,7 @@ Ashton sees the photograph as just one way to visualise a camera's data and his 
 
 
 
-[^austerity]: Like most large British cities, Birmingham has suffered disproportionately from central government funding cuts with [mass redundancies and reductions in services]([^austerity]). Coupled with a [bungled equal pay](http://www.bbc.co.uk/news/uk-england-birmingham-20294633) legal case the city is on the verge of bankruptcy. 
+[^austerity]: Like most large British cities, Birmingham has suffered disproportionately from central government funding cuts with [mass redundancies and reductions in services](http://www.birminghammail.co.uk/news/midlands-news/expect-less-birmingham-city-council-9437162). Coupled with a [bungled equal pay](http://www.bbc.co.uk/news/uk-england-birmingham-20294633) legal case the city is on the verge of bankruptcy. 
 
 
 

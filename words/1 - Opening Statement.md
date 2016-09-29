@@ -45,7 +45,7 @@
 </li>
 
 <li id="fn7">
-<p>Like most large British cities, Birmingham has suffered disproportionately from central government funding cuts with <a href="%5B%5Eausterity%5D">mass redundancies and reductions in services</a>. Coupled with a <a href="http://www.bbc.co.uk/news/uk-england-birmingham-20294633">bungled equal pay</a> legal case the city is on the verge of bankruptcy. &nbsp;<a href="#fnref7" rev="footnote">&#8617;</a></p>
+<p>Like most large British cities, Birmingham has suffered disproportionately from central government funding cuts with <a href="http://www.birminghammail.co.uk/news/midlands-news/expect-less-birmingham-city-council-9437162">mass redundancies and reductions in services</a>. Coupled with a <a href="http://www.bbc.co.uk/news/uk-england-birmingham-20294633">bungled equal pay</a> legal case the city is on the verge of bankruptcy. &nbsp;<a href="#fnref7" rev="footnote">&#8617;</a></p>
 </li>
 
 <li id="fn8">
