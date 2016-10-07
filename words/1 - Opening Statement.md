@@ -16,6 +16,18 @@
 
 <p><img src="https://raw.githubusercontent.com/peteash10/2017-body-of-work/master/images/Machine%20Learning%20Algorithm.png" alt=""></p>
 
+<h3 id="toc_2">New bit on using photography to illuminate AI to be worked in once it&#39;s clearer.</h3>
+
+<p>Photographs have been described as being &quot;the annihilation of time and space&quot;, a Victorian-era phrase also applied to the telegraph and railroad which radically changed our relationship to the four dimensions, but mostly these days associated with <a href="https://www.brainpickings.org/2016/05/26/river-of-shadows-rebecca-solnit-muybridge/">Eadweard Muybridge&#39;s horses</a>.</p>
+
+<p>This phrase is a potent one as it casually explains a photograph&#39;s relationship to reality (as it experienced by humans). A photograph is a 2D rendering of a slice though time. Anything before the shutter was opened and after it is closed is discarded. Simulaneously, the framing of the photograph discards everything behind, above, below, to the left and to the right of the lens&#39;s field of view. </p>
+
+<p>Photography is powerful through what it excludes, not what it includes. A high-contrast, narrow depth-of-field, black and white photograph also throws out colour and detail, again increasing its power. Less is always more in photography. </p>
+
+<p>As such, photography is a great metaphor for data analysis. If photography anihilates time and space, data analysis anihilates nuance and edge cases in search of patterns and trends. </p>
+
+<p>When the outliers are people, and the questions being asked are politically motivated, who is left out of the picture? </p>
+
 <div class="footnotes">
 <hr>
 <ol>

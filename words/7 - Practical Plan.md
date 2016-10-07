@@ -44,6 +44,14 @@ Treating the small and insignificant aspects of the environment as if they were 
 
 Ask a number of people to record themselves narrating everything around them in a public space at the same time. Video the scene simultaneously. Sync all recordings so viewers can switch between POVs. 
 
+###Eye tracker vs computer vision. 
+
+Compare how different people explore an image using an eyetracker, and then compare that with how different computer vision systems look at images. cf [Robot Readable World](https://vimeo.com/36239715). Inspired in part by [Alexis Lloyd's Eyeo 2015](https://vimeo.com/175846583) talk on developing collaborative relatioships with machines. 
+
+###Mapping with the community.
+
+Riffing off community engagement tactics from georgraphers, etc, giving maps and renders to the public to get them to fill in the gaps with their local knowledge. Something about seeing how different images and scans of an area (Lidar, map, aerial photo, ground photos, multispectral) can inform how people explore it on the ground.
+
 
 ##Outputs
 

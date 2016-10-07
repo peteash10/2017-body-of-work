@@ -16,6 +16,21 @@ Ashton sees the photograph as just one way to visualise a camera's data and his 
 
 ![](https://raw.githubusercontent.com/peteash10/2017-body-of-work/master/images/Machine%20Learning%20Algorithm.png)
 
+###New bit on using photography to illuminate AI to be worked in once it's clearer.
+
+Photographs have been described as being "the annihilation of time and space", a Victorian-era phrase also applied to the telegraph and railroad which radically changed our relationship to the four dimensions, but mostly these days associated with [Eadweard Muybridge's horses](https://www.brainpickings.org/2016/05/26/river-of-shadows-rebecca-solnit-muybridge/).
+
+This phrase is a potent one as it casually explains a photograph's relationship to reality (as it experienced by humans). A photograph is a 2D rendering of a slice though time. Anything before the shutter was opened and after it is closed is discarded. Simulaneously, the framing of the photograph discards everything behind, above, below, to the left and to the right of the lens's field of view. 
+
+Photography is powerful through what it excludes, not what it includes. A high-contrast, narrow depth-of-field, black and white photograph also throws out colour and detail, again increasing its power. Less is always more in photography. 
+
+As such, photography is a great metaphor for data analysis. If photography anihilates time and space, data analysis anihilates nuance and edge cases in search of patterns and trends. 
+
+When the outliers are people, and the questions being asked are politically motivated, who is left out of the picture? 
+
+
+
+
 
 [^Victims]: For example, [Predictive Policing](https://en.wikipedia.org/wiki/Predictive_policing) has run into [accusations of amplifying biases](http://www.civilrights.org/press/2016/predictive-policing-statement.html). 
 
