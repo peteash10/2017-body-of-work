@@ -6,7 +6,11 @@ During 2017 I will be developing a new body of work, culminating in an exhibitio
 
 *2nd draft: 15th September 2016.*
 
-[Pete Ashton](http://peteashton.com) is exploring the computer programmes, algorithms and Artificial Intelligence (AI) systems[^AI] that inform our daily lives but are hidden or obscured from our comprehension[^Crawford]. His practice uses ubiquitous cameras[^ubiquitous] and image analysis[^cv] to highlight the reach and biases of these complex systems and challenge the Silicon Valley orthodoxy of "one system fits all"[^onering] as multinational tech companies expand from Internet services into the Smart Cities arena[^smartcities]. 
+[Pete Ashton](http://peteashton.com) Pete Ashton is a multimedia artist creating site-specific work. His practice explores the role of cameras as post-photographic data-capture devices.
+
+His new body of work will address the computer programmes, algorithms and Artificial Intelligence (AI) systems[^AI] that inform our daily lives but are hidden or obscured from our comprehension[^Crawford]. 
+
+His practice uses cameras a data-capture devices to highlight the reach and biases of these complex systems and challenge the Silicon Valley orthodoxy of "one system fits all"[^onering] as multinational tech companies expand from Internet services into the Smart Cities arena[^smartcities]. 
 
 This rise in the capabilities of corporate AI coincides with the turmoil of late-capitalism and failure of austerity policies which have ravaged cities like the artist's hometown of Birmingham[^austerity]. As AI-powered systems are brought in to deliver efficiencies as much as services, Ashton's work highlights those parts of society which may suffer from a new digital divide[^Digidivide]. 
 
@@ -28,6 +32,9 @@ As such, photography is a great metaphor for data analysis. If photography anihi
 
 When the outliers are people, and the questions being asked are politically motivated, who is left out of the picture? 
 
+OR
+
+All photographs are lies masquerading as truth. So, use that for something. 
 
 
 

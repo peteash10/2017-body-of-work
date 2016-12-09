@@ -8,9 +8,9 @@ My email is pete@peteashton.com and I'm on Twitter at [@peteashton](http://twitt
 
 ##Headline Summary
 
-**A series of camera-derived artworks exploring the effects of Artificial Intelligence systems in the public sector**
+**A series of post-photographic data-first camera-derived artworks interrogating the role of cameras in contemporary society and how their prevalence empowers and depowers individuals.**
 
-***Keyword soup:*** *post-photography, machine learning, artificial intelligence, algorithmic policing, surveillance capitalism, smart cities, Californian Ideology, neural networks, digital exclusion, psychogeography, civic identity.*
+***Keyword soup:*** *post-photography, machine learning, data-first, algorithmic performance, generative art, surveillance capitalism, smart cities, neural networks, digital exclusion, psychogeography, civic identity*
 
 ##Contents
 
@@ -39,31 +39,22 @@ Other sections and bits of writing which flesh out the main thrust, as it were.
 
 ##Timeline
 
-###August 2016
+###November 2016
 
-* Start work on this repository. 
-* Get everything ready for the work ahead.
+* Month-long residency in Linz, Austria as part of the [Goodbye Wittgenstein](http://qujochoe.org/goodbye-wittgenstein/) project. 
 
-###September 2016
-
-* Establish collaborators and partners.
-
-###October 2016
+###December 2016
 
 * Finalise plan for 2017 
 * Submit funding application to the Arts Council. 
 
-###November 2016
-
-* Month-long residency in Linz, Austria as part of the [Goodbye Wittgenstein](http://qujochoe.org/goodbye-wittgenstein/) project. A palette cleanser.
-
 ###January 2017
 
-* Work begins
+* Work begins on a series of mini-residencies and collaborations at BOM to produce new artworks. 
 
 ###November 2017
 
-* Exhibition at [Birmingham Open Media](http://bom.org.uk).
+* Exhibition of works at [Birmingham Open Media](http://bom.org.uk).
 
 
 

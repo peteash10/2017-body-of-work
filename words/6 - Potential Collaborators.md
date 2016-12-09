@@ -6,6 +6,10 @@ I am very open to suggestions of other people and entities I should consider app
 
 ##People
 
+* [Tess Osbourne](http://www.birmingham.ac.uk/schools/gees/people/dr-students/osborne-tess.aspx) - "Technogeographer at the University of Birmingham. Interested in emotions, bio-sensing, memory, brains, and mobilities." Potentially interested in my working with her PhD data. 
+
+* [Wesley Goatley](http://www.wesleygoatley.com/about) - "I’m an artist and researcher based in London, UK. My practice examines opaque power and hidden processes in data and technology through installations, objects, and talks.  I’m currently undertaking doctoral studies through a scholarship from the Sussex Humanities Lab,  University of Sussex, where I’m exploring a critical data aesthetics approach to artistic practice and research."
+
 * [Rick Robinson](https://theurbantechnologist.com) - IT Director for Smart Data and Technology for Amey, founder and the current chair of the [Birmingham Smart City Alliance](https://birminghamsmartcityalliance.wordpress.com). 
 [Interview with him.](https://www.newcivilengineer.com/latest/nce-live/project-profile-smart-infrastructure/10008429.article) 
 
