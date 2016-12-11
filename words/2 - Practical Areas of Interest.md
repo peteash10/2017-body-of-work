@@ -26,7 +26,6 @@ Related to neural networks t-SNE is a methodology for sorting images based on th
 ![](https://camo.githubusercontent.com/d1de97e95b13b6349e6ad94933e4897d96de4d09/68747470733a2f2f63322e737461746963666c69636b722e636f6d2f322f313531312f32343837333234333931355f646435323230653431635f6b2e6a7067)
 
 
-
 ##Photogrammetry
 
 [Photogrammetry](https://en.wikipedia.org/wiki/Photogrammetry) is the process by which multiple photographs (or video frames) of the same object from different angles can be translated into a 3D rendering of that object. [Originally used](https://github.com/golanlevin/ExperimentalCapture/blob/master/docs/Photogrammetry-and-3D-scanning.md) to determine topographical heights from aerial photography this is now a common form of 3D scanning. The process involves identifying similar points in photos and calculating their position in 3D space. 

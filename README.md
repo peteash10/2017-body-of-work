@@ -1,10 +1,10 @@
 #Notes and works in progress towards my new body of work for 2017
 
-In late 2017 I will be exhibiting a new body of work as the culmination of a three year fellowship at [Birmingham Open Media](http://bom.org.uk). Between now and then I will be preparing for and creating this work. I will be using this repository to collect, process and refine my ideas and approaches. You are welcome to peruse, share and collaborate with me if you feel the need or desire. 
+In late 2017 I will be exhibiting a new body of work at [Birmingham Open Media](http://bom.org.uk). Between now and then I will be preparing for and creating this work. I will be using this repository to collect, process and refine my ideas and approaches. You are welcome to peruse, share and collaborate with me if you feel the need or desire. 
 
 No pages here are complete (unless otherwise stated). There will be typos. 
 
-My email is pete@peteashton.com and I'm on Twitter at [@peteashton](http://twitter.com/peteashton)
+My email is pete@peteashton.com and I'm on Twitter at [@peteashton](http://twitter.com/peteashton). My art website is [art.peteashton.com](http://art.peteashton.com)
 
 ##Headline Summary
 
@@ -29,7 +29,6 @@ I'm attempting to boil everything down into a series of documents. These will be
 Other sections and bits of writing which flesh out the main thrust, as it were. 
 
 - [Other works of mine which led up to this project](https://github.com/peteash10/2017-body-of-work/tree/master/words/Other-Works)
-2. [Why GitHub?](https://github.com/peteash10/2017-body-of-work/blob/master/words/Misc-Texts/Why%20Github.md) - Why I'm using this service rather than a website or blog. 
 3. [Focus](https://github.com/peteash10/2017-body-of-work/blob/master/words/Essays/Focus.md) - an essay on the differing meanings of the word in photography. 
 4. [Notes on Sitting In Stagram](https://github.com/peteash10/2017-body-of-work/blob/master/words/Essays/Notes%20on%20Sitting%20In%20Stagram.md) - An artwork of mine referencing Alvin Lucier went viral and caused some thoughts. 
 5. [Photographs are a form of data visualisation](https://github.com/peteash10/2017-body-of-work/blob/master/words/Essays/Photographs%20are%20a%20form%20of%20data%20visualisation.md) - I mean, it's obvious really. 
@@ -48,9 +47,9 @@ Other sections and bits of writing which flesh out the main thrust, as it were.
 * Finalise plan for 2017 
 * Submit funding application to the Arts Council. 
 
-###January 2017
+###February 2017
 
-* Work begins on a series of mini-residencies and collaborations at BOM to produce new artworks. 
+* Work begins to produce new artworks. 
 
 ###November 2017
 

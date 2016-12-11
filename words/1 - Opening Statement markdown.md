@@ -10,15 +10,11 @@ During 2017 I will be developing a new body of work, culminating in an exhibitio
 
 His new body of work will address the computer programmes, algorithms and Artificial Intelligence (AI) systems[^AI] that inform our daily lives but are hidden or obscured from our comprehension[^Crawford]. 
 
-His practice uses cameras a data-capture devices to highlight the reach and biases of these complex systems and challenge the Silicon Valley orthodoxy of "one system fits all"[^onering] as multinational tech companies expand from Internet services into the Smart Cities arena[^smartcities]. 
+His practice uses cameras a data-capture devices to highlight the reach and biases of these complex systems and challenge ideologies, such as the Silicon Valley orthodoxy of "one system fits all"[^onering], as multinational tech companies expand from Internet services into the Smart Cities arena[^smartcities]. 
 
-This rise in the capabilities of corporate AI coincides with the turmoil of late-capitalism and failure of austerity policies which have ravaged cities like the artist's hometown of Birmingham[^austerity]. As AI-powered systems are brought in to deliver efficiencies as much as services, Ashton's work highlights those parts of society which may suffer from a new digital divide[^Digidivide]. 
+While photograph image processing is just part of the data ecology, Ashton's camera-derived visual art makes these issues comprehendible and invites the viewer to explore broader questions about AI and society. His work explores how algorithms can represent our society in unexpected ways and the questions that arise concerning their accuracy and effects. 
 
-While photograph image processing is a small part of the AI ecology, Ashton's camera-derived visual art makes these issues comprehendible and invites the viewer to explore broader questions about AI and society. Through collaboration with AI advocates[^Digibrum], and those potentially disadvantaged by its implementation[^Victims], his work explores how algorithms can represent a city in unexpected ways and the questions that arise concerning their accuracy and social effects. 
-
-Ashton sees the photograph as just one way to visualise a camera's data and his camera-based work involves print, video, software, sound, statistical analysis, walking, sculpture, performance and other media.
-
-![](https://raw.githubusercontent.com/peteash10/2017-body-of-work/master/images/Machine%20Learning%20Algorithm.png)
+In visualising the camera's data Ashton rejects the photograph and his camera-based work involves print, video, software, sound, statistical analysis, walking, sculpture, performance and other media.
 
 ###New bit on using photography to illuminate AI to be worked in once it's clearer.
 
@@ -31,12 +27,6 @@ Photography is powerful through what it excludes, not what it includes. A high-c
 As such, photography is a great metaphor for data analysis. If photography anihilates time and space, data analysis anihilates nuance and edge cases in search of patterns and trends. 
 
 When the outliers are people, and the questions being asked are politically motivated, who is left out of the picture? 
-
-OR
-
-All photographs are lies masquerading as truth. So, use that for something. 
-
-
 
 
 [^Victims]: For example, [Predictive Policing](https://en.wikipedia.org/wiki/Predictive_policing) has run into [accusations of amplifying biases](http://www.civilrights.org/press/2016/predictive-policing-statement.html). 

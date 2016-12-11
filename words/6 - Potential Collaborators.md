@@ -2,6 +2,8 @@
 
 A wish-list of people and entities I'd like to collaborate with during the development of this work. Contingent on them being a) interested and b) available. 
 
+("Collaboration" could also just mean reading their work and maybe sending a couple of emails.)
+
 I am very open to suggestions of other people and entities I should consider approaching. 
 
 ##People
@@ -54,10 +56,4 @@ Again, I'm open to suggestions.
 * [Eyeo](http://eyeofestival.com)
 * [Future Everything](http://futureeverything.org)
 * http://convergence-london.com
-
-Alisha at Centrala
-Crisis
-
-
-Marcell Mars
 

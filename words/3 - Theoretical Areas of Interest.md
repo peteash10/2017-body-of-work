@@ -2,6 +2,14 @@
 
 Enquiry into the production and consumption of images in the 21st century is a dauntingly huge challenge. My process over the next few months will be to narrow my areas of interest to a manageable number of subjects suitable for the production of new work. Here is the current list of ideas and approaches.
 
+##Machine-to-machine seeing 
+
+[From Trevor Paglen](http://thenewinquiry.com/essays/invisible-images-your-pictures-are-looking-at-you/)
+
+Essentially, most images of the world that are captured by cameras are only ever seen by machines. 
+
+>The fact that digital images are fundamentally machine-readable regardless of a human subject has enormous implications. It allows for the automation of vision on an enormous scale and, along with it, the exercise of power on dramatically larger and smaller scales than have ever been possible.
+
 
 ##Artificial Inteligence is Hard to See
 
