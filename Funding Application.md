@@ -182,25 +182,25 @@ I have received two Grant for the Arts awards, one to start my personal art prac
 
 ## Activity Timeline
 
-Start date | End date | Activity or task details | Task lead 
+Start date | End date | Activity or task details 
 --- | --- | --- | ---
-May 1st | October 31st | Development of work | Pete Ashton
-May 1st | May 31st | Build sensors | Pete Ashton
-June 1st | June 30th | Develop Machine Learning system to process information | Pete Ashton
-June 1st | June 30th | Test sensors in city | Pete Ashton
-June 1st | June 30th | Residency / Workshop at BOM on sensors and experimental capture systems | Pete Ashton
-July 1st | August 31st | Tune outputs of Machine Learning system for generative artworks and instructions. | Pete Ashton
-August 1st | August 31st | Residency at BOM working with performance artists to workshop Instructions for Humans | Pete Ashton
-Sept 1st | Sept 30th | Develop Portrait Of A City installation | Pete Ashton
-Oct 1st | Oct 31st | Tie it all together | Pete Ashton
-Nov 1st | Dec 31st | Exhibition at BOM | Pete Ashton
-Nov 1st | Dec 31st | Performances and Walks during this period | Pete Ashton
-Nov 1st | Dec 31st | One day Machine Learning symposium during this period | Pete Ashton
-Dec 1st | Dec 31st | Publish "Instructions For Humans" book | Pete Ashton
-Jan 1st | Jan 31st | Get all documentation online | Pete Ashton
-Jan 1st | Jan 31st | Submit talks to festivals / conferences | Pete Ashton
-Jan 1st | Jan 31st | Explore touring to other galleries | Pete Ashton
-Jan 1st | Jan 31st | Write Evaluation | Pete Ashton
+May 1st | October 31st | Development of work
+May 1st | May 31st | Build sensors
+June 1st | June 30th | Develop Machine Learning system to process information
+June 1st | June 30th | Test sensors in city
+June 1st | June 30th | Residency / Workshop at BOM on sensors and experimental capture systems
+July 1st | August 31st | Tune outputs of Machine Learning system for generative artworks and instructions.
+August 1st | August 31st | Residency at BOM working with performance artists to workshop Instructions for Humans
+Sept 1st | Sept 30th | Develop Portrait Of A City installation
+Oct 1st | Oct 31st | Tie it all together
+Nov 1st | Dec 31st | Exhibition at BOM
+Nov 1st | Dec 31st | Performances and Walks during this period
+Nov 1st | Dec 31st | One day Machine Learning symposium during this period
+Dec 1st | Dec 31st | Publish "Instructions For Humans" book
+Jan 1st | Jan 31st | Get all documentation online
+Jan 1st | Jan 31st | Submit talks to festivals / conferences
+Jan 1st | Jan 31st | Explore touring to other galleries
+Jan 1st | Jan 31st | Write Evaluation
  
 
 ## Evaluation
