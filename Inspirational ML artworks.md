@@ -1,4 +1,4 @@
-# Inspirational ML artworks and resoucres
+# Inspirational ML artworks and resources
 
 An ongoing list. 
 
