@@ -15,3 +15,6 @@ My email is pete@peteashton.com and I'm on Twitter at [@peteashton](http://twitt
 
 - [An ongoing list.](https://peteash10.github.io/instructions-for-humans/Inspirational%20ML%20artworks)
 
+## Research
+
+- [instructionsforhumans.tumblr.com](https://instructionsforhumans.tumblr.com) is collecting examples of humans performing for the benefit of machines. Further examples are welcome. 
