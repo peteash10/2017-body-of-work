@@ -1,0 +1,9 @@
+## Confirmation Bias
+
+I want the art to deal with Brexit and Trump. These are the biggest things happening in my world at the moment and I need to address them. The everyday mechanics of Brexit and Trump are horrifying but too huge and fast-moving for me to get a handle on. What I want to explore is the divisiveness that characterises them and how media distribution systems have changed to bring this about. So we're talking [filter bubbles](https://en.wikipedia.org/wiki/Filter_bubble), mainly. News feeds that are composed through manual selection (choosing which sources to follow and which to ignore) and augmented by obfuscated algorithmic selection (Google's personalised search results). This can create a perception of the world where everyone seems to agree with you, so when your Facebook and Twitter feeds are full of people saying Brexit will never happen because it's insane, it's a bit of a shock when it does. Algorithms, man. They're all to blame. 
+
+But filter bubbles, and their adoption, actually echo a fundamental way that we process and deal with the world. This [list of cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases) is fascinating but I'm particularly drawn to those which confirm pre-existing beliefs, such as [Confirmation Bias](https://en.wikipedia.org/wiki/Confirmation_bias): 
+
+> the tendency to search for, interpret, favour, and recall information in a way that confirms one's preexisting beliefs or hypotheses. People display this bias when they gather or remember information selectively, or when they interpret it in a biased way. The effect is stronger for emotionally charged issues and for deeply entrenched beliefs. People also tend to interpret ambiguous evidence as supporting their existing position.
+
+This has nothing to do with algorithms and computers. Facebook is not making us do this. We already do it, every day, when we're moving through the world trying to make sense of it. 
