@@ -17,6 +17,6 @@ My email is pete@peteashton.com and I'm on Twitter at [@peteashton](http://twitt
 
 ## Research
 
-- I'm colecting Key Notes - little essays on issues I want to explore through this work. Please enjoy them. 
+- [I'm building up Keynotes](https://github.com/peteash10/instructions-for-humans/tree/master/words/Keynotes) - little essays on issues I want to explore through this work. Please enjoy them. 
 
 - [instructionsforhumans.tumblr.com](https://instructionsforhumans.tumblr.com) is collecting examples of humans performing for the benefit of machines. Further examples are welcome. 
