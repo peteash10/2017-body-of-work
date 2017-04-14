@@ -1,6 +1,6 @@
 ## Black Boxes
 
-Finally, something fairly straight forward. The concept of the [Black Box](https://en.wikipedia.org/wiki/Black_box). 
+Something fairly straight forward. The concept of the [Black Box](https://en.wikipedia.org/wiki/Black_box). 
 
 This does not refer to the [flight recorder](https://en.wikipedia.org/wiki/Flight_recorder) on a doomed aircraft. It refers to "a device, system or object which can be viewed in terms of its inputs and outputs without any knowledge of its internal workings."
 
