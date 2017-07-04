@@ -1,4 +1,4 @@
-#Totem Pole specifications
+# Totem Pole specifications
 
 The Totem Pole is a column approximately 5 metres high and around 1 metre in diameter. 
 
